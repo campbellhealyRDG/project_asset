@@ -1,0 +1,9 @@
+CREATE TABLE cubic_gates (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    Operator VARCHAR(255),
+    Station VARCHAR(255),
+    Code VARCHAR(255),
+    `Cubic Name` VARCHAR(255),
+    NLC VARCHAR(255),
+    Gated VARCHAR(255)
+);

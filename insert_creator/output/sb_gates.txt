@@ -1,0 +1,8 @@
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('BLACKPOOL NORTH', 'BRADFORD INTERCH', 'Blackpool North', 'BPN', '5', 'nan');
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('BRADFORD INTERCHange', 'BRADFORD INTERCH', 'Bradford Interchange', 'BDI', '5', 'nan');
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('DARLINGTON', 'DARLINGTON.', 'Darlington', 'DAR', '7', 'nan');
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('MANCHESTER Oxford road', 'MANCHESTER O RD', 'Manchester Oxford Road', 'MCO', '6', 'nan');
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('MANCHESTER Victoria', 'MANCHESTER VIC', 'Manchester Victoria', 'MCV', '19', 'nan');
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('NEWCASTLE', 'NEWCASTLE.', 'Newcastle', 'NCL', '23', 'nan');
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('Peterborough', 'Peterborough', 'Peterborough', 'PBO', '7', 'nan');
+INSERT INTO sb_gates (`Station Location`, `Unnamed: 1`, `Unnamed: 2`, `Unnamed: 3`, `Unnamed: 4`, `Unnamed: 5`) VALUES ('WAKEFIELD WESTGate', 'WAKEFIELD WESTGT', 'Wakefield Westgate', 'WKF', '8', 'nan');

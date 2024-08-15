@@ -1,0 +1,947 @@
+﻿TOC,Station,"NLC
+Code",CRSCode,HostName,"Platform
+Position",,Operator,Station,Total PVALS
+EMR,Alfreton,1805,ALF,ALF-1805-PCP-001,1,,EMR,Alfreton,2
+EMR,Alfreton,1805,ALF,ALF-1805-PCP-002,2,,EMR,Ambergate,1
+EMR,Ambergate,1678,AMB,AMB-1678-PCP-001,1,,EMR,Ancaster,1
+EMR,Ancaster,6358,ANC,ANC-6358-PCP-001,1,,EMR,Attenborough,1
+EMR,Attenborough,1624,ATB,ATB-1624-PCP-001,1,,EMR,Barrowuponsoar,1
+EMR,Barrowuponsoar,1903,BWS,BWS-1903-PCP-001,1,,EMR,Beeston,2
+EMR,Beeston,1625,BEE,BEE-1625-PCP-001,1,,EMR,Belper,2
+EMR,Beeston,1625,BEE,BEE-1625-PCP-002,2,,EMR,Bleasby,1
+EMR,Belper,1679,BLP,BLP-1679-PCP-001,1,,EMR,Boston,2
+EMR,Belper,1679,BLP,BLP-1679-PCP-002,2,,EMR,Bulwell,2
+EMR,Bleasby,6204,BSB,BSB-6204-PCP-001,1,,EMR,Burtonontrent,1
+EMR,Boston,6216,BSN,BSN-6216-PCP-001,1,,EMR,Chesterfield,3
+EMR,Boston,6216,BSN,BSN-6216-PCP-002,2,,EMR,Corby,2
+EMR,Bulwell,1865,BLW,BLW-1865-PCP-001,1,,EMR,Creswell,1
+EMR,Bulwell,1865,BLW,BLW-1865-PCP-002,2,,EMR,Cromford,1
+EMR,Burtonontrent,1658,BUT,BUT-1658-PCP-001,1,,EMR,Duffield,2
+EMR,Chesterfield,6615,CHD,CHD-6615-PCP-001,1,,EMR,Eastmidspkwy,3
+EMR,Chesterfield,6615,CHD,CHD-6615-PCP-002,2,,EMR,Elton&Orston,1
+EMR,Chesterfield,6615,CHD,CHD-6615-PCP-003,3,,EMR,Havenhouse,1
+EMR,Corby,1847,COR,COR-1847-PCP-001,1,,EMR,Hinckley(Leics),1
+EMR,Corby,1847,COR,COR-1847-PCP-002,2,,EMR,Hubbertsbridge,1
+EMR,Creswell,1874,CWD,CWD-1874-PCP-001,1,,EMR,Hucknall,4
+EMR,Cromford,1822,CMF,CMF-1822-PCP-001,1,,EMR,Ilkeston,1
+EMR,Duffield,1691,DFI,DFI-1691-PCP-001,1,,EMR,Kettering,3
+EMR,Duffield,1691,DFI,DFI-1691-PCP-002,2,,EMR,Kidsgrove,3
+EMR,Eastmidspkwy,1901,EMD,EMD-1901-PCP-001,1,,EMR,Kirkbyinashfld,2
+EMR,Eastmidspkwy,1901,EMD,EMD-1901-PCP-002,2,,EMR,Langwithwthorn,1
+EMR,Eastmidspkwy,1901,EMD,EMD-1901-PCP-003,3,,EMR,Leicester,1
+EMR,Elton&Orston,6238,ELO,ELO-6238-PCP-001,1,,EMR,Longeaton,2
+EMR,Havenhouse,6260,HVN,HVN-6260-PCP-001,1,,EMR,Loughborough,1
+EMR,Hinckley(Leics),1870,HNK,HNK-1870-PCP-001,1,,EMR,Mansfield,1
+EMR,Hubbertsbridge,6221,HBB,HBB-6221-PCP-001,1,,EMR,Mansfieldwoodh,2
+EMR,Hucknall,1862,HKN,HKN-1862-PCP-001,1,,EMR,Marketharboro,3
+EMR,Hucknall,1862,HKN,HKN-1862-PCP-002,2,,EMR,Matlock,1
+EMR,Hucknall,1862,HKN,HKN-1862-PCP-003,3,,EMR,Matlockbath,1
+EMR,Hucknall,1862,HKN,HKN-1862-PCP-004,4,,EMR,Meltonmowbray,1
+EMR,Ilkeston,7783,ILN,ILN-7783-PCP-001,1,,EMR,Narborough,1
+EMR,Kettering,1857,KET,KET-1857-PCP-001,1,,EMR,Newarkcastle,1
+EMR,Kettering,1857,KET,KET-1857-PCP-002,2,,EMR,Newstead,1
+EMR,Kettering,1857,KET,KET-1857-PCP-003,3,,EMR,Nottingham,1
+EMR,Kidsgrove,1229,KDG,KDG-1229-PCP-001,1,,EMR,Oakham,1
+EMR,Kidsgrove,1229,KDG,KDG-1229-PCP-002,2,,EMR,Peartree,2
+EMR,Kidsgrove,1229,KDG,KDG-1229-PCP-003,3,,EMR,Rolleston,1
+EMR,Kirkbyinashfld,1867,KKB,KKB-1867-PCP-001,1,,EMR,Sheffield,6
+EMR,Kirkbyinashfld,1867,KKB,KKB-1867-PCP-002,2,,EMR,Shirebrook,2
+EMR,Langwithwthorn,1871,LAG,LAG-1871-PCP-001,1,,EMR,Sileby,2
+EMR,Leicester,1947,LEI,LEI-1947-PCP-001,1,,EMR,Skegness,1
+EMR,Longeaton,1829,LGE,LGE-1829-PCP-001,1,,EMR,Sleaford,1
+EMR,Longeaton,1829,LGE,LGE-1829-PCP-002,2,,EMR,Spalding,1
+EMR,Loughborough,1897,LBO,LBO-1897-PCP-001,1,,EMR,Stamfordlincs,1
+EMR,Mansfield,1727,MFT,MFT-1727-PCP-002,2,,EMR,Suttonparkway,4
+EMR,Mansfieldwoodh,1728,MSW,MSW-1728-PCP-001,1,,EMR,Swineshead,1
+EMR,Mansfieldwoodh,1728,MSW,MSW-1728-PCP-002,2,,EMR,Syston,2
+EMR,Marketharboro,1909,MHR,MHR-1909-PCP-001,1,,EMR,Thorpeculvert,1
+EMR,Marketharboro,1909,MHR,MHR-1909-PCP-002,2,,EMR,Thurgarton,1
+EMR,Marketharboro,1909,MHR,MHR-1909-PCP-003,3,,EMR,Uttoxeter,1
+EMR,Matlock,1581,MAT,MAT-1581-PCP-001,1,,EMR,Wellingborough,3
+EMR,Matlockbath,1582,MTB,MTB-1582-PCP-001,1,,EMR,Whatstandwell,1
+EMR,Meltonmowbray,1851,MMO,MMO-1851-PCP-001,1,,EMR,Whitwell,1
+EMR,Narborough,1881,NBR,NBR-1881-PCP-001,1,,GWR,Ashchurch,2
+EMR,Newarkcastle,6498,NCT,NCT-6498-PCP-001,1,,GWR,Bedminster,2
+EMR,Newstead,1863,NSD,NSD-1863-PCP-001,1,,GWR,Cam&Dursley,2
+EMR,Nottingham,1826,NOT,NOT-1826-PCP-001,1,,GWR,Falmouthdocks,2
+EMR,Oakham,1904,OKM,OKM-1904-PCP-001,1,,GWR,Falmouthtown,2
+EMR,Peartree,1687,PEA,PEA-1687-PCP-001,1,,GWR,Filtonabbeywood,4
+EMR,Peartree,1687,PEA,PEA-1687-PCP-099,99,,GWR,Freshford,2
+EMR,Rolleston,6353,ROL,ROL-6353-PCP-001,1,,GWR,Kemble,2
+EMR,Sheffield,6691,SHF,SHF-6691-PCP-001,1,,GWR,Keynsham,2
+EMR,Sheffield,6691,SHF,SHF-6691-PCP-002,2,,GWR,Marshbarton,4
+EMR,Sheffield,6691,SHF,SHF-6691-PCP-003,3,,GWR,Nailsea&Bwell,2
+EMR,Sheffield,6691,SHF,SHF-6691-PCP-004,4,,GWR,Okehampton,3
+EMR,Sheffield,6691,SHF,SHF-6691-PCP-005,5,,GWR,Oldfieldpark,2
+EMR,Sheffield,6691,SHF,SHF-6691-PCP-006,6,,GWR,Parsonstreet,2
+EMR,Shirebrook,1595,SHB,SHB-1595-PCP-001,1,,GWR,Patchway,3
+EMR,Shirebrook,1595,SHB,SHB-1595-PCP-002,2,,GWR,Penmere,2
+EMR,Sileby,1902,SIL,SIL-1902-PCP-001,1,,GWR,Penryncornwall,2
+EMR,Sileby,1902,SIL,SIL-1902-PCP-002,2,,GWR,Portwaypark&Ride,4
+EMR,Skegness,6265,SKG,SKG-6265-PCP-001,1,,GWR,Readinggreenpark,2
+EMR,Sleaford,6362,SLR,SLR-6362-PCP-001,1,,GWR,Stonehouse,2
+EMR,Spalding,6388,SPA,SPA-6388-PCP-001,1,,GWR,Stroud(Glos),2
+EMR,Stamfordlincs,6140,SMD,SMD-6140-PCP-001,1,,GWR,Westonmilton,2
+EMR,Suttonparkway,1861,SPK,SPK-1861-PCP-001,1,,GWR,Worle,2
+EMR,Suttonparkway,1861,SPK,SPK-1861-PCP-002,2,,GWR,Yate,2
+EMR,Suttonparkway,1861,SPK,SPK-1861-PCP-003,3,,GWR,Yatton,2
+EMR,Suttonparkway,1861,SPK,SPK-1861-PCP-004,4,,Northern,"Adlington(Lancs)	",2
+EMR,Swineshead,6228,SWE,SWE-6228-PCP-001,1,,Northern,"Apperleybridge	",2
+EMR,Syston,1900,SYS,SYS-1900-PCP-001,1,,Northern,"Baildon	",2
+EMR,Syston,1900,SYS,SYS-1900-PCP-002,2,,Northern,"Benrhydding	",2
+EMR,Thorpeculvert,6267,TPC,TPC-6267-PCP-001,1,,Northern,"Bingley	",5
+EMR,Thurgarton,6203,THU,THU-6203-PCP-001,1,,Northern,"Blackrod	",3
+EMR,Uttoxeter,1342,UTT,UTT-1342-PCP-001,1,,Northern,"Bramhall	",2
+EMR,Wellingborough,1940,WEL,WEL-1940-PCP-001,1,,Northern,"Bramley(Wyorks)	",2
+EMR,Wellingborough,1940,WEL,WEL-1940-PCP-002,2,,Northern,"Broadgreen	",2
+EMR,Wellingborough,1940,WEL,WEL-1940-PCP-003,3,,Northern,"Brough	",4
+EMR,Whatstandwell,1585,WTS,WTS-1585-PCP-001,1,,Northern,"Buckshawparkway	",3
+EMR,Whitwell,6551,WWL,WWL-6551-PCP-001,1,,Northern,"Burley-In-Wharfedale	",2
+GWR,Ashchurch,4700,ASC,ASC-4700-PCP-001,1,,Northern,"Burleypark	",3
+GWR,Ashchurch,4700,ASC,ASC-4700-PCP-002,2,,Northern,"Castleford	",2
+GWR,Bedminster,3245,BMT,BMT-3245-PCP-001,1,,Northern,"Castleton(Manchester)	",4
+GWR,Bedminster,3245,BMT,BMT-3245-PCP-002,2,,Northern,"Cheadlehulme	",4
+GWR,Cam&Dursley,3238,CDU,CDU-3238-PCP-001,1,,Northern,"Chorley	",3
+GWR,Cam&Dursley,3238,CDU,CDU-3238-PCP-002,2,,Northern,"Congleton	",2
+GWR,Falmouthdocks,3508,FAL,FAL-3508-PCP-001,1,,Northern,"Cononley	",2
+GWR,Falmouthdocks,3508,FAL,FAL-3508-PCP-002,2,,Northern,"Crossflatts	",2
+GWR,Falmouthtown,3591,FMT,FMT-3591-PCP-001,1,,Northern,"Crossgates	",3
+GWR,Falmouthtown,3591,FMT,FMT-3591-PCP-002,2,,Northern,"Davenport	",2
+GWR,Filtonabbeywood,3235,FIT,FIT-3235-PCP-001,1,,Northern,"Deansgate	",5
+GWR,Filtonabbeywood,3235,FIT,FIT-3235-PCP-002,2,,Northern,"Earlestown	",4
+GWR,Filtonabbeywood,3235,FIT,FIT-3235-PCP-003,3,,Northern,"Eastgarforth	",3
+GWR,Filtonabbeywood,3235,FIT,FIT-3235-PCP-004,4,,Northern,"Eccles(Manchester)	",2
+GWR,Freshford,3344,FFD,FFD-3344-PCP-001,1,,Northern,"Edgehill	",2
+GWR,Freshford,3344,FFD,FFD-3344-PCP-002,2,,Northern,"Featherstone	",2
+GWR,Kemble,3325,KEM,KEM-3325-PCP-001,1,,Northern,"Ferriby	",2
+GWR,Kemble,3325,KEM,KEM-3325-PCP-002,2,,Northern,"Frizinghall	",4
+GWR,Keynsham,3237,KYN,KYN-3237-PCP-001,1,,Northern,"Garforth	",3
+GWR,Keynsham,3237,KYN,KYN-3237-PCP-002,2,,Northern,"Gilberdyke	",1
+GWR,Marshbarton,7779,MBT,MBT-7779-PCP-001,1,,Northern,"Glasshoughton	",3
+GWR,Marshbarton,7779,MBT,MBT-7779-PCP-002,2,,Northern,"Guiseley	",2
+GWR,Marshbarton,7779,MBT,MBT-7779-PCP-003,3,,Northern,"Halifax	",2
+GWR,Marshbarton,7779,MBT,MBT-7779-PCP-004,4,,Northern,"Hazelgrove	",2
+GWR,Nailsea&Bwell,3389,NLS,NLS-3389-PCP-001,1,,Northern,"Headingley	",2
+GWR,Nailsea&Bwell,3389,NLS,NLS-3389-PCP-002,2,,Northern,"Heatonchapel	",4
+GWR,Okehampton,5786,OKE,OKE-5786-PCP-001,1,,Northern,"Hebdenbridge	",3
+GWR,Okehampton,5786,OKE,OKE-5786-PCP-002,2,,Northern,"Hessle	",2
+GWR,Okehampton,5786,OKE,OKE-5786-PCP-003,3,,Northern,"Hornbeampark	",2
+GWR,Oldfieldpark,3219,OLF,OLF-3219-PCP-001,1,,Northern,"Horsforth	",3
+GWR,Oldfieldpark,3219,OLF,OLF-3219-PCP-002,2,,Northern,"Horwichparkway	",3
+GWR,Parsonstreet,3246,PSN,PSN-3246-PCP-001,1,,Northern,"Howden	",2
+GWR,Parsonstreet,3246,PSN,PSN-3246-PCP-002,2,,Northern,"Hull	",2
+GWR,Patchway,3213,PWY,PWY-3213-PCP-001,1,,Northern,"Huyton	",2
+GWR,Patchway,3213,PWY,PWY-3213-PCP-002,2,,Northern,"Ilkley	",5
+GWR,Patchway,3213,PWY,PWY-3213-PCP-003,3,,Northern,"Keighley	",3
+GWR,Penmere,3499,PNM,PNM-3499-PCP-001,1,,Northern,"Kirkstallforge	",3
+GWR,Penmere,3499,PNM,PNM-3499-PCP-002,2,,Northern,"Knaresborough	",2
+GWR,Penryncornwall,3525,PYN,PYN-3525-PCP-001,1,,Northern,"Knottingley	",1
+GWR,Penryncornwall,3525,PYN,PYN-3525-PCP-002,2,,Northern,"Leagreen	",2
+GWR,Portwaypark&Ride,1123,PRI,PRI-1123-PCP-001,1,,Northern,"Levenshulme	",2
+GWR,Portwaypark&Ride,1123,PRI,PRI-1123-PCP-002,2,,Northern,"Littleborough	",3
+GWR,Portwaypark&Ride,1123,PRI,PRI-1123-PCP-003,3,,Northern,"Liverpoollimestreet	",6
+GWR,Portwaypark&Ride,1123,PRI,PRI-1123-PCP-004,4,,Northern,"Lostock	",3
+GWR,Readinggreenpark,996,RGP,RGP-0996-PCP-001,1,,Northern,"Lowmoor	",2
+GWR,Readinggreenpark,996,RGP,RGP-0996-PCP-002,2,,Northern,"Macclesfield	",3
+GWR,Stonehouse,4770,SHU,SHU-4770-PCP-001,1,,Northern,"Manchesterpiccadilly	",14
+GWR,Stonehouse,4770,SHU,SHU-4770-PCP-002,2,,Northern,"Menston	",4
+GWR,Stroud(Glos),4771,STD,STD-4771-PCP-001,1,,Northern,"Micklefield	",3
+GWR,Stroud(Glos),4771,STD,STD-4771-PCP-002,2,,Northern,"Millshill(Manchester)	",2
+GWR,Westonmilton,3388,WNM,WNM-3388-PCP-001,1,,Northern,"Moston	",2
+GWR,Westonmilton,3388,WNM,WNM-3388-PCP-002,2,,Northern,"Mytholmroyd	",3
+GWR,Worle,3390,WOR,WOR-3390-PCP-001,1,,Northern,"Newpudsey	",2
+GWR,Worle,3390,WOR,WOR-3390-PCP-002,2,,Northern,"Newton-Le-Willows	",4
+GWR,Yate,3380,YAE,YAE-3380-PCP-001,1,,Northern,"Normanton	",3
+GWR,Yate,3380,YAE,YAE-3380-PCP-002,2,,Northern,"Outwood	",2
+GWR,Yatton,3392,YAT,YAT-3392-PCP-001,1,,Northern,"Pannal	",3
+GWR,Yatton,3392,YAT,YAT-3392-PCP-002,2,,Northern,"Patricroft	",2
+NT,"Adlington(Lancs)	",2641,ADL,"	ADL-2641-PCP-001",1,,Northern,"Pontefractmonkhill	",2
+NT,"Adlington(Lancs)	",2641,ADL,"	ADL-2641-PCP-002",2,,Northern,"Pontefracttanshelf	",4
+NT,"Apperleybridge	",8562,APY,"	APY-8562-PCP-001",1,,Northern,"Poynton	",4
+NT,"Apperleybridge	",8562,APY,"	APY-8562-PCP-002",2,,Northern,"Prestbury	",2
+NT,"Baildon	",8552,BLD,"	BLD-8552-PCP-001",1,,Northern,"Rainhill	",3
+NT,"Baildon	",8552,BLD,"	BLD-8552-PCP-002",2,,Northern,"Roby	",3
+NT,"Benrhydding	",8564,BEY,"	BEY-8564-PCP-001",1,,Northern,"Saltaire	",2
+NT,"Benrhydding	",8564,BEY,"	BEY-8564-PCP-002",2,,Northern,"Selby	",3
+NT,"Bingley	",8553,BIY,"	BIY-8553-PCP-001",1,,Northern,"Shipley(Yorks)	",7
+NT,"Bingley	",8553,BIY,"	BIY-8553-PCP-002",2,,Northern,"Smithybridge	",2
+NT,"Bingley	",8553,BIY,"	BIY-8553-PCP-003",3,,Northern,"Southmilford	",3
+NT,"Bingley	",8553,BIY,"	BIY-8553-PCP-004",4,,Northern,"Sowerbybridge	",3
+NT,"Bingley	",8553,BIY,"	BIY-8553-PCP-005",5,,Northern,"Starbeck	",2
+NT,"Blackrod	",2732,BLK,"	BLK-2732-PCP-001",1,,Northern,"Steeton&Silsden	",3
+NT,"Blackrod	",2732,BLK,"	BLK-2732-PCP-002",2,,Northern,"Sthelensjunction	",3
+NT,"Blackrod	",2732,BLK,"	BLK-2732-PCP-003",3,,Northern,"Todmorden	",2
+NT,"Bramhall	",2944,BML,"	BML-2944-PCP-001",1,,Northern,"Wakefieldkirkgate	",2
+NT,"Bramhall	",2944,BML,"	BML-2944-PCP-002",2,,Northern,"Walsden	",3
+NT,"Bramley(Wyorks)	",8496,BLE,"	BLE-8496-PCP-001",1,,Northern,"Wavertreetechnologypark	",2
+NT,"Bramley(Wyorks)	",8496,BLE,"	BLE-8496-PCP-002",2,,Northern,"Weeton	",2
+NT,"Broadgreen	",2240,BGE,"	BGE-2240-PCP-001",1,,Northern,"Whiston	",2
+NT,"Broadgreen	",2240,BGE,"	BGE-2240-PCP-002",2,,Northern,"Woodlesford	",2
+NT,"Brough	",8051,BUH,"	BUH-8051-PCP-001",1,,Northern,"Woodsmoor	",2
+NT,"Brough	",8051,BUH,"	BUH-8051-PCP-002",2,,SWR,Addlestone,3
+NT,"Brough	",8051,BUH,"	BUH-8051-PCP-003",3,,SWR,Aldershot,1
+NT,"Brough	",8051,BUH,"	BUH-8051-PCP-004",4,,SWR,Alton,2
+NT,"Buckshawparkway	",7501,BSV,"	BSV-7501-PCP-001",1,,SWR,Andover,3
+NT,"Buckshawparkway	",7501,BSV,"	BSV-7501-PCP-002",2,,SWR,Ascot(Berks),4
+NT,"Buckshawparkway	",7501,BSV,"	BSV-7501-PCP-003",3,,SWR,Ash,2
+NT,"Burley-In-Wharfedale	",8565,BUW,"	BUW-8565-PCP-001",1,,SWR,Ashford(Surrey),3
+NT,"Burley-In-Wharfedale	",8565,BUW,"	BUW-8565-PCP-002",2,,SWR,Ashurstnforest,2
+NT,"Burleypark	",8500,BUY,"	BUY-8500-PCP-001",1,,SWR,Ashvale,4
+NT,"Burleypark	",8500,BUY,"	BUY-8500-PCP-002",2,,SWR,Axminster,2
+NT,"Burleypark	",8500,BUY,"	BUY-8500-PCP-003",3,,SWR,Bagshot,1
+NT,"Castleford	",8359,CFD,"	CFD-8359-PCP-001",1,,SWR,Basingstoke,3
+NT,"Castleford	",8359,CFD,"	CFD-8359-PCP-002",2,,SWR,Beaulieuroad,1
+NT,"Castleton(Manchester)	",2919,CAS,"	CAS-2919-PCP-001",1,,SWR,Bedhampton,2
+NT,"Castleton(Manchester)	",2919,CAS,"	CAS-2919-PCP-002",2,,SWR,Bentley(Hants),2
+NT,"Castleton(Manchester)	",2919,CAS,"	CAS-2919-PCP-003",3,,SWR,Bitterne,1
+NT,"Castleton(Manchester)	",2919,CAS,"	CAS-2919-PCP-004",4,,SWR,Bookham,4
+NT,"Cheadlehulme	",2870,CHU,"	CHU-2870-PCP-001",1,,SWR,Botley,1
+NT,"Cheadlehulme	",2870,CHU,"	CHU-2870-PCP-002",2,,SWR,Bournemouth,5
+NT,"Cheadlehulme	",2870,CHU,"	CHU-2870-PCP-003",3,,SWR,Bracknell,1
+NT,"Cheadlehulme	",2870,CHU,"	CHU-2870-PCP-004",4,,SWR,Brading,2
+NT,"Chorley	",2745,CRL,"	CRL-2745-PCP-001",1,,SWR,Branksome,2
+NT,"Chorley	",2745,CRL,"	CRL-2745-PCP-002",2,,SWR,Brockenhurst,5
+NT,"Chorley	",2745,CRL,"	CRL-2745-PCP-003",3,,SWR,Brookwood,1
+NT,"Congleton	",1227,CNG,"	CNG-1227-PCP-001",1,,SWR,Bursledon,1
+NT,"Congleton	",1227,CNG,"	CNG-1227-PCP-002",2,,SWR,Byfleet&Newh,2
+NT,"Cononley	",8470,CEY,"	CEY-8470-PCP-001",1,,SWR,Camberley,4
+NT,"Cononley	",8470,CEY,"	CEY-8470-PCP-002",2,,SWR,Chandlersford,2
+NT,"Crossflatts	",8554,CFL,"	CFL-8554-PCP-001",1,,SWR,Chertsey,3
+NT,"Crossflatts	",8554,CFL,"	CFL-8554-PCP-002",2,,SWR,Christchurch,4
+NT,"Crossgates	",8473,CRG,"	CRG-8473-PCP-001",1,,SWR,Clandon,4
+NT,"Crossgates	",8473,CRG,"	CRG-8473-PCP-002",2,,SWR,Claygate,3
+NT,"Crossgates	",8473,CRG,"	CRG-8473-PCP-003",3,,SWR,Cobham&Stoked,3
+NT,"Davenport	",2770,DVN,"	DVN-2770-PCP-001",1,,SWR,Cosham,4
+NT,"Davenport	",2770,DVN,"	DVN-2770-PCP-002",2,,SWR,Cranbrook,2
+NT,"Deansgate	",2963,DGT,"	DGT-2963-PCP-001",1,,SWR,Crewkerne,2
+NT,"Deansgate	",2963,DGT,"	DGT-2963-PCP-002",2,,SWR,Datchet,4
+NT,"Deansgate	",2963,DGT,"	DGT-2963-PCP-003",3,,SWR,Dorchestersouth,4
+NT,"Deansgate	",2963,DGT,"	DGT-2963-PCP-004",4,,SWR,Earley,2
+NT,"Deansgate	",2963,DGT,"	DGT-2963-PCP-005",5,,SWR,Eastleigh,3
+NT,"Earlestown	",2292,ERL,"	ERL-2292-PCP-001",1,,SWR,Effinghamjn,2
+NT,"Earlestown	",2292,ERL,"	ERL-2292-PCP-002",2,,SWR,Egham,2
+NT,"Earlestown	",2292,ERL,"	ERL-2292-PCP-003",3,,SWR,Esher,4
+NT,"Earlestown	",2292,ERL,"	ERL-2292-PCP-004",4,,SWR,Fareham,1
+NT,"Eastgarforth	",8472,EGF,"	EGF-8472-PCP-001",1,,SWR,Farnboroughmain,2
+NT,"Eastgarforth	",8472,EGF,"	EGF-8472-PCP-002",2,,SWR,Farncombe,4
+NT,"Eastgarforth	",8472,EGF,"	EGF-8472-PCP-003",3,,SWR,Farnham,4
+NT,"Eccles(Manchester)	",2950,ECC,"	ECC-2950-PCP-001",1,,SWR,Feniton,2
+NT,"Eccles(Manchester)	",2950,ECC,"	ECC-2950-PCP-002",2,,SWR,Fleet,1
+NT,"Edgehill	",2169,EDG,"	EDG-2169-PCP-001",1,,SWR,Fratton,2
+NT,"Edgehill	",2169,EDG,"	EDG-2169-PCP-002",2,,SWR,Frimley,1
+NT,"Featherstone	",8544,FEA,"	FEA-8544-PCP-001",1,,SWR,Gillinghamdset,5
+NT,"Featherstone	",8544,FEA,"	FEA-8544-PCP-002",2,,SWR,Godalming,2
+NT,"Ferriby	",8061,FRY,"	FRY-8061-PCP-001",1,,SWR,Grateley,2
+NT,"Ferriby	",8061,FRY,"	FRY-8061-PCP-002",2,,SWR,Guildford,2
+NT,"Frizinghall	",8556,FZH,"	FZH-8556-PCP-001",1,,SWR,Hamble,2
+NT,"Frizinghall	",8556,FZH,"	FZH-8556-PCP-002",2,,SWR,Hamworthy,3
+NT,"Frizinghall	",8556,FZH,"	FZH-8556-PCP-003",3,,SWR,Haslemere,2
+NT,"Frizinghall	",8556,FZH,"	FZH-8556-PCP-004",4,,SWR,Havant,1
+NT,"Garforth	",8474,GRF,"	GRF-8474-PCP-001",1,,SWR,Hedgeend,3
+NT,"Garforth	",8474,GRF,"	GRF-8474-PCP-003",3,,SWR,Hersham,2
+NT,"Garforth	",8474,GRF,"	GRF-8474-PCP-004",4,,SWR,Hilsea,2
+NT,"Gilberdyke	",8117,GBD,"	GBD-8117-PCP-001",1,,SWR,Hinchleywood,3
+NT,"Glasshoughton	",8360,GLH,"	GLH-8360-PCP-001",1,,SWR,Hintonadmiral,4
+NT,"Glasshoughton	",8360,GLH,"	GLH-8360-PCP-002",2,,SWR,Holtonheath,2
+NT,"Glasshoughton	",8360,GLH,"	GLH-8360-PCP-003",3,,SWR,Honiton,4
+NT,"Guiseley	",8567,GSY,"	GSY-8567-PCP-001",1,,SWR,Hook,5
+NT,"Guiseley	",8567,GSY,"	GSY-8567-PCP-002",2,,SWR,Horsley,3
+NT,"Halifax	",8411,HFX,"	HFX-8411-PCP-001",1,,SWR,Kemptonpkrcrse,4
+NT,"Halifax	",8411,HFX,"	HFX-8411-PCP-002",2,,SWR,Lake,2
+NT,"Hazelgrove	",2768,HAZ,"	HAZ-2768-PCP-001",1,,SWR,Liphook,2
+NT,"Hazelgrove	",2768,HAZ,"	HAZ-2768-PCP-002",2,,SWR,Liss,2
+NT,"Headingley	",8498,HDY,"	HDY-8498-PCP-001",1,,SWR,Londonrdguilfd,4
+NT,"Headingley	",8498,HDY,"	HDY-8498-PCP-002",2,,SWR,Longcross,1
+NT,"Heatonchapel	",2861,HTC,"	HTC-2861-PCP-001",1,,SWR,Lymingtonpier,2
+NT,"Heatonchapel	",2861,HTC,"	HTC-2861-PCP-002",2,,SWR,Lymingtontown,2
+NT,"Heatonchapel	",2861,HTC,"	HTC-2861-PCP-003",3,,SWR,Martinsheron,3
+NT,"Heatonchapel	",2861,HTC,"	HTC-2861-PCP-004",4,,SWR,Micheldever,2
+NT,"Hebdenbridge	",8524,HBD,"	HBD-8524-PCP-001",1,,SWR,Milfordsurrey,3
+NT,"Hebdenbridge	",8524,HBD,"	HBD-8524-PCP-002",2,,SWR,Millbrookhants,1
+NT,"Hebdenbridge	",8524,HBD,"	HBD-8524-PCP-003",3,,SWR,Moretondorset,3
+NT,"Hessle	",8067,HES,"	HES-8067-PCP-001",1,,SWR,Netley,3
+NT,"Hessle	",8067,HES,"	HES-8067-PCP-002",2,,SWR,Newmilton,4
+NT,"Hornbeampark	",8212,HBP,"	HBP-8212-PCP-001",1,,SWR,Overton,2
+NT,"Hornbeampark	",8212,HBP,"	HBP-8212-PCP-002",2,,SWR,Oxshott,3
+NT,"Horsforth	",8499,HRS,"	HRS-8499-PCP-001",1,,SWR,Parkstonedorset,2
+NT,"Horsforth	",8499,HRS,"	HRS-8499-PCP-002",2,,SWR,Petersfield,1
+NT,"Horsforth	",8499,HRS,"	HRS-8499-PCP-003",3,,SWR,Pinhoe,2
+NT,"Horwichparkway	",8720,HWI,"	HWI-8720-PCP-001",1,,SWR,Pokesdown,2
+NT,"Horwichparkway	",8720,HWI,"	HWI-8720-PCP-002",2,,SWR,Poole,5
+NT,"Horwichparkway	",8720,HWI,"	HWI-8720-PCP-003",3,,SWR,Portchester,4
+NT,"Howden	",8071,HOW,"	HOW-8071-PCP-001",1,,SWR,Portsmouthhbr,5
+NT,"Howden	",8071,HOW,"	HOW-8071-PCP-002",2,,SWR,Redbridgehants,2
+NT,"Hull	",8126,HUL,"	HUL-8126-PCP-001",1,,SWR,Romsey,2
+NT,"Hull	",8126,HUL,"	HUL-8126-PCP-002",2,,SWR,Rowlandscastle,2
+NT,"Huyton	",2160,HUY,"	HUY-2160-PCP-001",1,,SWR,Rydeesplanade,2
+NT,"Huyton	",2160,HUY,"	HUY-2160-PCP-002",2,,SWR,Rydepierhead,3
+NT,"Ilkley	",8568,ILK,"	ILK-8568-PCP-001",1,,SWR,Rydestjohnsrd,2
+NT,"Ilkley	",8568,ILK,"	ILK-8568-PCP-002",2,,SWR,Sandown,3
+NT,"Ilkley	",8568,ILK,"	ILK-8568-PCP-003",3,,SWR,Shanklin,2
+NT,"Ilkley	",8568,ILK,"	ILK-8568-PCP-004",4,,SWR,Shawford,2
+NT,"Ilkley	",8568,ILK,"	ILK-8568-PCP-005",5,,SWR,Shepperton,2
+NT,"Keighley	",8468,KEI,"	KEI-8468-PCP-001",1,,SWR,Sherborne,2
+NT,"Keighley	",8468,KEI,"	KEI-8468-PCP-002",2,,SWR,Sholing,2
+NT,"Keighley	",8468,KEI,"	KEI-8468-PCP-003",3,,SWR,Southamptonair,6
+NT,"Kirkstallforge	",6544,KLF,"	KLF-6544-PCP-001",1,,SWR,Southamptonctl,3
+NT,"Kirkstallforge	",6544,KLF,"	KLF-6544-PCP-002",2,,SWR,Staines,3
+NT,"Kirkstallforge	",6544,KLF,"	KLF-6544-PCP-003",3,,SWR,Stdenys,3
+NT,"Knaresborough	",8214,KNA,"	KNA-8214-PCP-001",1,,SWR,Sunbury,3
+NT,"Knaresborough	",8214,KNA,"	KNA-8214-PCP-002",2,,SWR,Sunningdale,3
+NT,"Knottingley	",8546,KNO,"	KNO-8546-PCP-001",1,,SWR,Sunnymeads,2
+NT,"Leagreen	",2339,LEG,"	LEG-2339-PCP-001",1,,SWR,Swanwick,2
+NT,"Leagreen	",2339,LEG,"	LEG-2339-PCP-002",2,,SWR,Sway,3
+NT,"Levenshulme	",2862,LVM,"	LVM-2862-PCP-001",1,,SWR,Swaythling,4
+NT,"Levenshulme	",2862,LVM,"	LVM-2862-PCP-002",2,,SWR,Templecombe,1
+NT,"Littleborough	",2661,LTL,"	LTL-2661-PCP-001",1,,SWR,Tisbury,2
+NT,"Littleborough	",2661,LTL,"	LTL-2661-PCP-002",2,,SWR,Totton,4
+NT,"Littleborough	",2661,LTL,"	LTL-2661-PCP-003",3,,SWR,Upperhalliford,1
+NT,"Liverpoollimestreet	",2246,LIV,"	LIV-2246-PCP-001",1,,SWR,Upwey,2
+NT,"Liverpoollimestreet	",2246,LIV,"	LIV-2246-PCP-002",2,,SWR,Virginiawater,1
+NT,"Liverpoollimestreet	",2246,LIV,"	LIV-2246-PCP-003",3,,SWR,Waltononthames,3
+NT,"Liverpoollimestreet	",2246,LIV,"	LIV-2246-PCP-004",4,,SWR,Wanborough,1
+NT,"Liverpoollimestreet	",2246,LIV,"	LIV-2246-PCP-005",5,,SWR,Warehamdorset,4
+NT,"Liverpoollimestreet	",2246,LIV,"	LIV-2246-PCP-006",6,,SWR,Westbyfleet,3
+NT,"Lostock	",2598,LOT,"	LOT-2598-PCP-001",1,,SWR,Weybridge,2
+NT,"Lostock	",2598,LOT,"	LOT-2598-PCP-002",2,,SWR,Weymouth,4
+NT,"Lostock	",2598,LOT,"	LOT-2598-PCP-003",3,,SWR,Whimple,1
+NT,"Lowmoor	",8416,LMR,"	LMR-8416-PCP-001",1,,SWR,Whitchurchhants,3
+NT,"Lowmoor	",8416,LMR,"	LMR-8416-PCP-002",2,,SWR,Winchester,2
+NT,"Macclesfield	",2871,MAC,"	MAC-2871-PCP-001",1,,SWR,Winchfield,4
+NT,"Macclesfield	",2871,MAC,"	MAC-2871-PCP-002",2,,SWR,Windsor&Eriv,3
+NT,"Macclesfield	",2871,MAC,"	MAC-2871-PCP-003",3,,SWR,Winnersh,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-001",1,,SWR,Winnershtrangle,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-010",10,,SWR,Witley,3
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-011",11,,SWR,Woking,1
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-012",12,,SWR,Wokingham,1
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-013",13,,SWR,Wool,3
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-014",14,,SWR,Woolston,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-002",2,,SWR,Worplesdon,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-003",3,,SWR,Wraysbury,3
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-004",4,,SWR,Yeoviljunction,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-005",5,,TfWR,Aber,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-006",6,,TfWR,Abercynon,1
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-007",7,,TfWR,Aberdare,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-008",8,,TfWR,Abergavenny,2
+NT,"Manchesterpiccadilly	",2968,MAN,"	MAN-2968-PCP-009",9,,TfWR,Bargoed,3
+NT,"Menston	",8574,MNN,"	MNN-8574-PCP-001",1,,TfWR,Barry,2
+NT,"Menston	",8574,MNN,"	MNN-8574-PCP-002",2,,TfWR,Barrydocks,1
+NT,"Menston	",8574,MNN,"	MNN-8574-PCP-003",3,,TfWR,Barryisland,1
+NT,"Menston	",8574,MNN,"	MNN-8574-PCP-004",4,,TfWR,Birchgrove,1
+NT,"Micklefield	",8477,MIK,"	MIK-8477-PCP-001",1,,TfWR,Bridgend,2
+NT,"Micklefield	",8477,MIK,"	MIK-8477-PCP-002",2,,TfWR,Brithdir,1
+NT,"Micklefield	",8477,MIK,"	MIK-8477-PCP-003",3,,TfWR,Cadoxton,2
+NT,"Millshill(Manchester)	",2920,MIH,"	MIH-2920-PCP-001",1,,TfWR,Caerphilly,4
+NT,"Millshill(Manchester)	",2920,MIH,"	MIH-2920-PCP-002",2,,TfWR,Caldicot,2
+NT,"Moston	",2973,MSO,"	MSO-2973-PCP-001",1,,TfWR,Cardiffbay,1
+NT,"Moston	",2973,MSO,"	MSO-2973-PCP-002",2,,TfWR,Cardiffcentral,1
+NT,"Mytholmroyd	",8526,MYT,"	MYT-8526-PCP-001",1,,TfWR,Cardiffqstreet,2
+NT,"Mytholmroyd	",8526,MYT,"	MYT-8526-PCP-002",2,,TfWR,Cathays,2
+NT,"Mytholmroyd	",8526,MYT,"	MYT-8526-PCP-003",3,,TfWR,Chepstow,1
+NT,"Newpudsey	",8506,NPD,"	NPD-8506-PCP-001",1,,TfWR,Cogan,2
+NT,"Newpudsey	",8506,NPD,"	NPD-8506-PCP-002",2,,TfWR,Coryton,1
+NT,"Newton-Le-Willows	",2257,NLW,"	NLW-2257-PCP-001",1,,TfWR,Crosskeys,2
+NT,"Newton-Le-Willows	",2257,NLW,"	NLW-2257-PCP-002",2,,TfWR,Cwmbach,1
+NT,"Newton-Le-Willows	",2257,NLW,"	NLW-2257-PCP-003",3,,TfWR,Cwmbran,3
+NT,"Newton-Le-Willows	",2257,NLW,"	NLW-2257-PCP-004",4,,TfWR,Danescourt,2
+NT,"Normanton	",8528,NOR,"	NOR-8528-PCP-001",1,,TfWR,Dinarhondda,1
+NT,"Normanton	",8528,NOR,"	NOR-8528-PCP-002",2,,TfWR,Dinaspowys,2
+NT,"Normanton	",8528,NOR,"	NOR-8528-PCP-003",3,,TfWR,Dingleroad,1
+NT,"Outwood	",8309,OUT,"	OUT-8309-PCP-001",1,,TfWR,Eastbrook,3
+NT,"Outwood	",8309,OUT,"	OUT-8309-PCP-002",2,,TfWR,Ebbwvaleparkway,1
+NT,"Pannal	",8479,PNL,"	PNL-8479-PCP-001",1,,TfWR,Ebbwvaletown,1
+NT,"Pannal	",8479,PNL,"	PNL-8479-PCP-002",2,,TfWR,Energlynandchurchillpark,3
+NT,"Pannal	",8479,PNL,"	PNL-8479-PCP-003",3,,TfWR,Fairwater,2
+NT,"Patricroft	",2916,PAT,"	PAT-2916-PCP-001",1,,TfWR,Fernhill,1
+NT,"Patricroft	",2916,PAT,"	PAT-2916-PCP-002",2,,TfWR,Gilfachfargoed,1
+NT,"Pontefractmonkhill	",8548,PFM,"	PFM-8548-PCP-001",1,,TfWR,Grangetown,1
+NT,"Pontefractmonkhill	",8548,PFM,"	PFM-8548-PCP-002",2,,TfWR,Heathhighlevel,2
+NT,"Pontefracttanshelf	",8541,POT,"	POT-8541-PCP-001",1,,TfWR,Heathlowlevel,1
+NT,"Pontefracttanshelf	",8541,POT,"	POT-8541-PCP-002",2,,TfWR,Hengoed,3
+NT,"Pontefracttanshelf	",8541,POT,"	POT-8541-PCP-003",3,,TfWR,Lisvaneandthornhill,2
+NT,"Pontefracttanshelf	",8541,POT,"	POT-8541-PCP-004",4,,TfWR,Llanbradach,2
+NT,"Poynton	",2874,PYT,"	PYT-2874-PCP-001",1,,TfWR,Llandaf,4
+NT,"Poynton	",2874,PYT,"	PYT-2874-PCP-002",2,,TfWR,Llanharan,3
+NT,"Poynton	",2874,PYT,"	PYT-2874-PCP-003",3,,TfWR,Llanhilleth,1
+NT,"Poynton	",2874,PYT,"	PYT-2874-PCP-004",4,,TfWR,Llanishen,2
+NT,"Prestbury	",2875,PRB,"	PRB-2875-PCP-001",1,,TfWR,Llantwitmajor,2
+NT,"Prestbury	",2875,PRB,"	PRB-2875-PCP-002",2,,TfWR,Llwynypia,2
+NT,"Rainhill	",2296,RNH,"	RNH-2296-PCP-001",1,,TfWR,Maesteg,2
+NT,"Rainhill	",2296,RNH,"	RNH-2296-PCP-002",2,,TfWR,Maestegewennyrd,1
+NT,"Rainhill	",2296,RNH,"	RNH-2296-PCP-003",3,,TfWR,Merthyrtydfil,1
+NT,"Roby	",2261,ROB,"	ROB-2261-PCP-001",1,,TfWR,Merthyrvale,2
+NT,"Roby	",2261,ROB,"	ROB-2261-PCP-002",2,,TfWR,Mountainash,2
+NT,"Roby	",2261,ROB,"	ROB-2261-PCP-003",3,,TfWR,Newbridge,1
+NT,"Saltaire	",8561,SAE,"	SAE-8561-PCP-001",1,,TfWR,Newport,3
+NT,"Saltaire	",8561,SAE,"	SAE-8561-PCP-002",2,,TfWR,Ninianpark,2
+NT,"Selby	",8201,SBY,"	SBY-8201-PCP-001",1,,TfWR,Penarth,2
+NT,"Selby	",8201,SBY,"	SBY-8201-PCP-002",2,,TfWR,Pencoed,3
+NT,"Selby	",8201,SBY,"	SBY-8201-PCP-003",3,,TfWR,Pengam,3
+NT,"Shipley(Yorks)	",8347,SHY,"	SHY-8347-PCP-001",1,,TfWR,Penrhiwceiber,1
+NT,"Shipley(Yorks)	",8347,SHY,"	SHY-8347-PCP-002",2,,TfWR,Pentrebach,1
+NT,"Shipley(Yorks)	",8347,SHY,"	SHY-8347-PCP-003",3,,TfWR,Pontlottyn,1
+NT,"Shipley(Yorks)	",8347,SHY,"	SHY-8347-PCP-004",4,,TfWR,Pontyclun,2
+NT,"Shipley(Yorks)	",8347,SHY,"	SHY-8347-PCP-005",5,,TfWR,Pontypool,1
+NT,"Shipley(Yorks)	",8347,SHY,"	SHY-8347-PCP-006",6,,TfWR,Pontypridd,3
+NT,"Shipley(Yorks)	",8347,SHY,"	SHY-8347-PCP-007",7,,TfWR,Porth,3
+NT,"Smithybridge	",2660,SMB,"	SMB-2660-PCP-001",1,,TfWR,Pyecorner,1
+NT,"Smithybridge	",2660,SMB,"	SMB-2660-PCP-002",2,,TfWR,Pyle,2
+NT,"Southmilford	",8142,SOM,"	SOM-8142-PCP-001",1,,TfWR,Quakersyard,1
+NT,"Southmilford	",8142,SOM,"	SOM-8142-PCP-002",2,,TfWR,Radyr,1
+NT,"Southmilford	",8142,SOM,"	SOM-8142-PCP-003",3,,TfWR,Rhiwbina,1
+NT,"Sowerbybridge	",8527,SOW,"	SOW-8527-PCP-001",1,,TfWR,Rhoose,2
+NT,"Sowerbybridge	",8527,SOW,"	SOW-8527-PCP-002",2,,TfWR,Rhymney,2
+NT,"Sowerbybridge	",8527,SOW,"	SOW-8527-PCP-003",3,,TfWR,Risca,2
+NT,"Starbeck	",8221,SBE,"	SBE-8221-PCP-001",1,,TfWR,Rogerstone,1
+NT,"Starbeck	",8221,SBE,"	SBE-8221-PCP-002",2,,TfWR,Sarn,1
+NT,"Steeton&Silsden	",8469,SON,"	SON-8469-PCP-001",1,,TfWR,Severntunneljn,2
+NT,"Steeton&Silsden	",8469,SON,"	SON-8469-PCP-002",2,,TfWR,Taffswell,1
+NT,"Steeton&Silsden	",8469,SON,"	SON-8469-PCP-003",3,,TfWR,Tir-Phil,3
+NT,"Sthelensjunction	",2340,SHJ,"	SHJ-2340-PCP-001",1,,TfWR,Tondu,2
+NT,"Sthelensjunction	",2340,SHJ,"	SHJ-2340-PCP-002",2,,TfWR,Tonpentre,1
+NT,"Sthelensjunction	",2340,SHJ,"	SHJ-2340-PCP-003",3,,TfWR,Tonypandy,2
+NT,"Todmorden	",2677,TOD,"	TOD-2677-PCP-001",1,,TfWR,Treforest,2
+NT,"Todmorden	",2677,TOD,"	TOD-2677-PCP-002",2,,TfWR,Treforestestate,1
+NT,"Wakefieldkirkgate	",8584,WKK,"	WKK-8584-PCP-001",1,,TfWR,Trehafod,2
+NT,"Wakefieldkirkgate	",8584,WKK,"	WKK-8584-PCP-002",2,,TfWR,Treherbert,1
+NT,"Walsden	",2665,WDN,"	WDN-2665-PCP-002",2,,TfWR,Treorchy,2
+NT,"Walsden	",2665,WDN,"	WDN-2665-PCP-001",1,,TfWR,Troed-Y-Rhiw,1
+NT,"Walsden	",2665,WDN,"	WDN-2665-PCP-003",3,,TfWR,Tyglas,1
+NT,"Wavertreetechnologypark	",8509,WAV,"	WAV-8589-PCP-001",1,,TfWR,Waungronpark,2
+NT,"Wavertreetechnologypark	",8509,WAV,"	WAV-8589-PCP-002",2,,TfWR,Whitchurch,1
+NT,"Weeton	",8509,WET,"	WET-8509-PCP-001",1,,TfWR,Wildmill,1
+NT,"Weeton	",8509,WET,"	WET-8509-PCP-002",2,,TfWR,Ynyswen,2
+NT,"Whiston	",2161,WHN,"	WHN-2161-PCP-001",1,,TfWR,Ystradmynach,3
+NT,"Whiston	",2161,WHN,"	WHN-2161-PCP-002",2,,TfWR,Ystradrhondda,4
+NT,"Woodlesford	",8578,WDS,"	WDS-8578-PCP-001",1,,,411,943
+NT,"Woodlesford	",8578,WDS,"	WDS-8578-PCP-002",2,,,,
+NT,"Woodsmoor	",2773,WSR,"	WSR-2773-PCP-001",1,,,,
+NT,"Woodsmoor	",2773,WSR,"	WSR-2773-PCP-002",2,,,,
+SWR,Addlestone,5550,ASN,ASN-5550-PCP-001,1,,,,
+SWR,Addlestone,5550,ASN,ASN-5550-PCP-002,2,,,,
+SWR,Addlestone,5550,ASN,ASN-5550-PCP-003,3,,,,
+SWR,Aldershot,5623,AHT,AHT-5623-PCP-001,1,,,,
+SWR,Alton,5544,AON,AON-5544-PCP-001,1,,,,
+SWR,Alton,5544,AON,AON-5544-PCP-002,2,,,,
+SWR,Andover,5510,ADV,ADV-5510-PCP-001,1,,,,
+SWR,Andover,5510,ADV,ADV-5510-PCP-002,2,,,,
+SWR,Andover,5510,ADV,ADV-5510-PCP-003,3,,,,
+SWR,Ascot(Berks),5666,ACT,ACT-5666-PCP-001,1,,,,
+SWR,Ascot(Berks),5666,ACT,ACT-5666-PCP-002,2,,,,
+SWR,Ascot(Berks),5666,ACT,ACT-5666-PCP-003,3,,,,
+SWR,Ascot(Berks),5666,ACT,ACT-5666-PCP-004,4,,,,
+SWR,Ash,5641,ASH,ASH-5641-PCP-001,1,,,,
+SWR,Ash,5641,ASH,ASH-5641-PCP-002,2,,,,
+SWR,Ashford(Surrey),5667,AFS,AFS-5667-PCP-001,1,,,,
+SWR,Ashford(Surrey),5667,AFS,AFS-5667-PCP-002,2,,,,
+SWR,Ashford(Surrey),5667,AFS,AFS-5667-PCP-003,3,,,,
+SWR,Ashurstnforest,5906,ANF,ANF-5906-PCP-001,1,,,,
+SWR,Ashurstnforest,5906,ANF,ANF-5906-PCP-002,2,,,,
+SWR,Ashvale,5547,AHV,AHV-5547-PCP-001,1,,,,
+SWR,Ashvale,5547,AHV,AHV-5547-PCP-002,2,,,,
+SWR,Ashvale,5547,AHV,AHV-5547-PCP-003,3,,,,
+SWR,Ashvale,5547,AHV,AHV-5547-PCP-004,4,,,,
+SWR,Axminster,5714,AXM,AXM-5714-PCP-001,1,,,,
+SWR,Axminster,5714,AXM,AXM-5714-PCP-002,2,,,,
+SWR,Bagshot,5681,BAG,BAG-5681-PCP-001,1,,,,
+SWR,Basingstoke,5520,BSK,BSK-5520-PCP-001,1,,,,
+SWR,Basingstoke,5520,BSK,BSK-5520-PCP-002,2,,,,
+SWR,Basingstoke,5520,BSK,BSK-5520-PCP-003,3,,,,
+SWR,Beaulieuroad,5890,BEU,BEU-5890-PCP-001,1,,,,
+SWR,Bedhampton,5538,BDH,BDH-5538-PCP-001,1,,,,
+SWR,Bedhampton,5538,BDH,BDH-5538-PCP-002,2,,,,
+SWR,Bentley(Hants),5624,BTY,BTY-5624-PCP-001,1,,,,
+SWR,Bentley(Hants),5624,BTY,BTY-5624-PCP-002,2,,,,
+SWR,Bitterne,5945,BTE,BTE-5945-PCP-001,1,,,,
+SWR,Bookham,5626,BKA,BKA-5626-PCP-001,1,,,,
+SWR,Bookham,5626,BKA,BKA-5626-PCP-002,2,,,,
+SWR,Bookham,5626,BKA,BKA-5626-PCP-003,3,,,,
+SWR,Bookham,5626,BKA,BKA-5626-PCP-004,4,,,,
+SWR,Botley,5894,BOE,BOE-5894-PCP-001,1,,,,
+SWR,Bournemouth,5876,BMH,BMH-5876-PCP-001,1,,,,
+SWR,Bournemouth,5876,BMH,BMH-5876-PCP-002,2,,,,
+SWR,Bournemouth,5876,BMH,BMH-5876-PCP-003,3,,,,
+SWR,Bournemouth,5876,BMH,BMH-5876-PCP-004,4,,,,
+SWR,Bournemouth,5876,BMH,BMH-5876-PCP-005,5,,,,
+SWR,Bracknell,5693,BCE,BCE-5693-PCP-001,1,,,,
+SWR,Brading,5530,BDN,BDN-5530-PCP-001,1,,,,
+SWR,Brading,5530,BDN,BDN-5530-PCP-002,2,,,,
+SWR,Branksome,5875,BSM,BSM-5875-PCP-001,1,,,,
+SWR,Branksome,5875,BSM,BSM-5875-PCP-002,2,,,,
+SWR,Brockenhurst,5886,BCU,BCU-5886-PCP-001,1,,,,
+SWR,Brockenhurst,5886,BCU,BCU-5886-PCP-002,2,,,,
+SWR,Brockenhurst,5886,BCU,BCU-5886-PCP-003,3,,,,
+SWR,Brockenhurst,5886,BCU,BCU-5886-PCP-004,4,,,,
+SWR,Brockenhurst,5886,BCU,BCU-5886-PCP-005,5,,,,
+SWR,Brookwood,5687,BKO,BKO-5687-PCP-001,1,,,,
+SWR,Bursledon,5927,BUO,BUO-5927-PCP-001,1,,,,
+SWR,Byfleet&Newh,5689,BFN,BFN-5689-PCP-001,1,,,,
+SWR,Byfleet&Newh,5689,BFN,BFN-5689-PCP-002,2,,,,
+SWR,Camberley,5682,CAM,CAM-5682-PCP-001,1,,,,
+SWR,Camberley,5682,CAM,CAM-5682-PCP-002,2,,,,
+SWR,Camberley,5682,CAM,CAM-5682-PCP-003,3,,,,
+SWR,Camberley,5682,CAM,CAM-5682-PCP-004,4,,,,
+SWR,Chandlersford,5836,CFR,CFR-5836-PCP-001,1,,,,
+SWR,Chandlersford,5836,CFR,CFR-5836-PCP-002,2,,,,
+SWR,Chertsey,5553,CHY,CHY-5553-PCP-001,1,,,,
+SWR,Chertsey,5553,CHY,CHY-5553-PCP-002,2,,,,
+SWR,Chertsey,5553,CHY,CHY-5553-PCP-003,3,,,,
+SWR,Christchurch,5879,CHR,CHR-5879-PCP-001,1,,,,
+SWR,Christchurch,5879,CHR,CHR-5879-PCP-002,2,,,,
+SWR,Christchurch,5879,CHR,CHR-5879-PCP-003,3,,,,
+SWR,Christchurch,5879,CHR,CHR-5879-PCP-004,4,,,,
+SWR,Clandon,5555,CLA,CLA-5555-PCP-001,1,,,,
+SWR,Clandon,5555,CLA,CLA-5555-PCP-002,2,,,,
+SWR,Clandon,5555,CLA,CLA-5555-PCP-003,3,,,,
+SWR,Clandon,5555,CLA,CLA-5555-PCP-004,4,,,,
+SWR,Claygate,5556,CLG,CLG-5556-PCP-001,1,,,,
+SWR,Claygate,5556,CLG,CLG-5556-PCP-002,2,,,,
+SWR,Claygate,5556,CLG,CLG-5556-PCP-003,3,,,,
+SWR,Cobham&Stoked,5557,CSD,CSD-5557-PCP-001,1,,,,
+SWR,Cobham&Stoked,5557,CSD,CSD-5557-PCP-002,2,,,,
+SWR,Cobham&Stoked,5557,CSD,CSD-5557-PCP-003,3,,,,
+SWR,Cosham,5896,CSA,CSA-5896-PCP-001,1,,,,
+SWR,Cosham,5896,CSA,CSA-5896-PCP-002,2,,,,
+SWR,Cosham,5896,CSA,CSA-5896-PCP-003,3,,,,
+SWR,Cosham,5896,CSA,CSA-5896-PCP-004,4,,,,
+SWR,Cranbrook,9850,CBK,CBK-9850-PCP-001,1,,,,
+SWR,Cranbrook,9850,CBK,CBK-9850-PCP-002,2,,,,
+SWR,Crewkerne,5832,CKN,CKN-5832-PCP-001,1,,,,
+SWR,Crewkerne,5832,CKN,CKN-5832-PCP-002,2,,,,
+SWR,Datchet,5668,DAT,DAT-5668-PCP-001,1,,,,
+SWR,Datchet,5668,DAT,DAT-5668-PCP-002,2,,,,
+SWR,Datchet,5668,DAT,DAT-5668-PCP-003,3,,,,
+SWR,Datchet,5668,DAT,DAT-5668-PCP-004,4,,,,
+SWR,Dorchestersouth,5961,DCH,DCH-5961-PCP-001,1,,,,
+SWR,Dorchestersouth,5961,DCH,DCH-5961-PCP-002,2,,,,
+SWR,Dorchestersouth,5961,DCH,DCH-5961-PCP-003,3,,,,
+SWR,Dorchestersouth,5961,DCH,DCH-5961-PCP-004,4,,,,
+SWR,Earley,5694,EAR,EAR-5694-PCP-001,1,,,,
+SWR,Earley,5694,EAR,EAR-5694-PCP-002,2,,,,
+SWR,Eastleigh,5899,ESL,ESL-5899-PCP-001,1,,,,
+SWR,Eastleigh,5899,ESL,ESL-5899-PCP-002,2,,,,
+SWR,Eastleigh,5899,ESL,ESL-5899-PCP-003,3,,,,
+SWR,Effinghamjn,5642,EFF,EFF-5642-PCP-001,1,,,,
+SWR,Effinghamjn,5642,EFF,EFF-5642-PCP-002,2,,,,
+SWR,Egham,5669,EGH,EGH-5669-PCP-002,2,,,,
+SWR,Egham,5669,EGH,EGH-5669-PCP-003,3,,,,
+SWR,Esher,5558,ESH,ESH-5558-PCP-001,1,,,,
+SWR,Esher,5558,ESH,ESH-5558-PCP-002,2,,,,
+SWR,Esher,5558,ESH,ESH-5558-PCP-003,3,,,,
+SWR,Esher,5558,ESH,ESH-5558-PCP-004,4,,,,
+SWR,Fareham,5900,FRM,FRM-5900-PCP-001,1,,,,
+SWR,Farnboroughmain,5521,FNB,FNB-5521-PCP-001,1,,,,
+SWR,Farnboroughmain,5521,FNB,FNB-5521-PCP-002,2,,,,
+SWR,Farncombe,5643,FNC,FNC-5643-PCP-001,1,,,,
+SWR,Farncombe,5643,FNC,FNC-5643-PCP-002,2,,,,
+SWR,Farncombe,5643,FNC,FNC-5643-PCP-003,3,,,,
+SWR,Farncombe,5643,FNC,FNC-5643-PCP-004,4,,,,
+SWR,Farnham,5545,FNH,FNH-5545-PCP-001,1,,,,
+SWR,Farnham,5545,FNH,FNH-5545-PCP-002,2,,,,
+SWR,Farnham,5545,FNH,FNH-5545-PCP-003,3,,,,
+SWR,Farnham,5545,FNH,FNH-5545-PCP-004,4,,,,
+SWR,Feniton,5808,FNT,FNT-5808-PCP-001,1,,,,
+SWR,Feniton,5808,FNT,FNT-5808-PCP-002,2,,,,
+SWR,Fleet,5522,FLE,FLE-5522-PCP-001,1,,,,
+SWR,Fratton,5509,FTN,FTN-5509-PCP-002,2,,,,
+SWR,Fratton,5509,FTN,FTN-5509-PCP-005,5,,,,
+SWR,Frimley,5683,FML,FML-5683-PCP-001,1,,,,
+SWR,Gillinghamdset,5796,GIL,GIL-5796-PCP-001,1,,,,
+SWR,Gillinghamdset,5796,GIL,GIL-5796-PCP-002,2,,,,
+SWR,Gillinghamdset,5796,GIL,GIL-5796-PCP-003,3,,,,
+SWR,Gillinghamdset,5796,GIL,GIL-5796-PCP-004,4,,,,
+SWR,Gillinghamdset,5796,GIL,GIL-5796-PCP-005,5,,,,
+SWR,Godalming,5629,GOD,GOD-5629-PCP-004,4,,,,
+SWR,Godalming,5629,GOD,GOD-5629-PCP-005,5,,,,
+SWR,Grateley,5514,GRT,GRT-5514-PCP-001,1,,,,
+SWR,Grateley,5514,GRT,GRT-5514-PCP-002,2,,,,
+SWR,Guildford,5631,GLD,GLD-5631-PCP-001,1,,,,
+SWR,Guildford,5631,GLD,GLD-5631-PCP-002,2,,,,
+SWR,Hamble,5947,HME,HME-5947-PCP-001,1,,,,
+SWR,Hamble,5947,HME,HME-5947-PCP-002,2,,,,
+SWR,Hamworthy,5940,HAM,HAM-5940-PCP-001,1,,,,
+SWR,Hamworthy,5940,HAM,HAM-5940-PCP-002,2,,,,
+SWR,Hamworthy,5940,HAM,HAM-5940-PCP-003,3,,,,
+SWR,Haslemere,5633,HSL,HSL-5633-PCP-001,1,,,,
+SWR,Haslemere,5633,HSL,HSL-5633-PCP-002,2,,,,
+SWR,Havant,5532,HAV,HAV-5532-PCP-001,1,,,,
+SWR,Hedgeend,5893,HDE,HDE-5893-PCP-001,1,,,,
+SWR,Hedgeend,5893,HDE,HDE-5893-PCP-002,2,,,,
+SWR,Hedgeend,5893,HDE,HDE-5893-PCP-003,3,,,,
+SWR,Hersham,5590,HER,HER-5590-PCP-001,1,,,,
+SWR,Hersham,5590,HER,HER-5590-PCP-002,2,,,,
+SWR,Hilsea,5539,HLS,HLS-5539-PCP-001,1,,,,
+SWR,Hilsea,5539,HLS,HLS-5539-PCP-002,2,,,,
+SWR,Hinchleywood,5591,HYW,HYW-5591-PCP-001,1,,,,
+SWR,Hinchleywood,5591,HYW,HYW-5591-PCP-002,2,,,,
+SWR,Hinchleywood,5591,HYW,HYW-5591-PCP-003,3,,,,
+SWR,Hintonadmiral,5880,HNA,HNA-5880-PCP-001,1,,,,
+SWR,Hintonadmiral,5880,HNA,HNA-5880-PCP-002,2,,,,
+SWR,Hintonadmiral,5880,HNA,HNA-5880-PCP-003,3,,,,
+SWR,Hintonadmiral,5880,HNA,HNA-5880-PCP-004,4,,,,
+SWR,Holtonheath,5941,HOL,HOL-5941-PCP-001,1,,,,
+SWR,Holtonheath,5941,HOL,HOL-5941-PCP-002,2,,,,
+SWR,Honiton,5717,HON,HON-5717-PCP-001,1,,,,
+SWR,Honiton,5717,HON,HON-5717-PCP-002,2,,,,
+SWR,Honiton,5717,HON,HON-5717-PCP-003,3,,,,
+SWR,Honiton,5717,HON,HON-5717-PCP-004,4,,,,
+SWR,Hook,5523,HOK,HOK-5523-PCP-001,1,,,,
+SWR,Hook,5523,HOK,HOK-5523-PCP-002,2,,,,
+SWR,Hook,5523,HOK,HOK-5523-PCP-003,3,,,,
+SWR,Hook,5523,HOK,HOK-5523-PCP-004,4,,,,
+SWR,Hook,5523,HOK,HOK-5523-PCP-005,5,,,,
+SWR,Horsley,5562,HSY,HSY-5562-PCP-001,1,,,,
+SWR,Horsley,5562,HSY,HSY-5562-PCP-002,2,,,,
+SWR,Horsley,5562,HSY,HSY-5562-PCP-003,3,,,,
+SWR,Kemptonpkrcrse,5678,KMP,KMP-5678-PCP-001,1,,,,
+SWR,Kemptonpkrcrse,5678,KMP,KMP-5678-PCP-002,2,,,,
+SWR,Kemptonpkrcrse,5678,KMP,KMP-5678-PCP-003,3,,,,
+SWR,Kemptonpkrcrse,5678,KMP,KMP-5678-PCP-004,4,,,,
+SWR,Lake,5504,LKE,LKE-5504-PCP-001,1,,,,
+SWR,Lake,5504,LKE,LKE-5504-PCP-002,2,,,,
+SWR,Liphook,5634,LIP,LIP-5634-PCP-001,1,,,,
+SWR,Liphook,5634,LIP,LIP-5634-PCP-002,2,,,,
+SWR,Liss,5635,LIS,LIS-5635-PCP-001,1,,,,
+SWR,Liss,5635,LIS,LIS-5635-PCP-002,2,,,,
+SWR,Londonrdguilfd,5632,LRD,LRD-5632-PCP-001,1,,,,
+SWR,Londonrdguilfd,5632,LRD,LRD-5632-PCP-002,2,,,,
+SWR,Londonrdguilfd,5632,LRD,LRD-5632-PCP-003,3,,,,
+SWR,Londonrdguilfd,5632,LRD,LRD-5632-PCP-004,4,,,,
+SWR,Longcross,5674,LNG,LNG-5674-PCP-001,1,,,,
+SWR,Lymingtonpier,5892,LYP,LYP-5892-PCP-001,1,,,,
+SWR,Lymingtonpier,5892,LYP,LYP-5892-PCP-002,2,,,,
+SWR,Lymingtontown,5887,LYT,LYT-5887-PCP-001,1,,,,
+SWR,Lymingtontown,5887,LYT,LYT-5887-PCP-002,2,,,,
+SWR,Martinsheron,5692,MAO,MAO-5692-PCP-001,1,,,,
+SWR,Martinsheron,5692,MAO,MAO-5692-PCP-002,2,,,,
+SWR,Martinsheron,5692,MAO,MAO-5692-PCP-003,3,,,,
+SWR,Micheldever,5908,MIC,MIC-5908-PCP-001,1,,,,
+SWR,Micheldever,5908,MIC,MIC-5908-PCP-002,2,,,,
+SWR,Milfordsurrey,5644,MLF,MLF-5644-PCP-001,1,,,,
+SWR,Milfordsurrey,5644,MLF,MLF-5644-PCP-002,2,,,,
+SWR,Milfordsurrey,5644,MLF,MLF-5644-PCP-003,3,,,,
+SWR,Millbrookhants,5909,MBK,MBK-5909-PCP-001,1,,,,
+SWR,Moretondorset,5957,MTN,MTN-5957-PCP-001,1,,,,
+SWR,Moretondorset,5957,MTN,MTN-5957-PCP-002,2,,,,
+SWR,Moretondorset,5957,MTN,MTN-5957-PCP-003,3,,,,
+SWR,Netley,5911,NTL,NTL-5911-PCP-001,1,,,,
+SWR,Netley,5911,NTL,NTL-5911-PCP-002,2,,,,
+SWR,Netley,5911,NTL,NTL-5911-PCP-003,3,,,,
+SWR,Newmilton,5881,NWM,NWM-5881-PCP-001,1,,,,
+SWR,Newmilton,5881,NWM,NWM-5881-PCP-002,2,,,,
+SWR,Newmilton,5881,NWM,NWM-5881-PCP-003,3,,,,
+SWR,Newmilton,5881,NWM,NWM-5881-PCP-004,4,,,,
+SWR,Overton,5526,OVR,OVR-5526-PCP-001,1,,,,
+SWR,Overton,5526,OVR,OVR-5526-PCP-002,2,,,,
+SWR,Oxshott,5602,OXS,OXS-5602-PCP-001,1,,,,
+SWR,Oxshott,5602,OXS,OXS-5602-PCP-002,2,,,,
+SWR,Oxshott,5602,OXS,OXS-5602-PCP-003,3,,,,
+SWR,Parkstonedorset,5882,PKS,PKS-5882-PCP-001,1,,,,
+SWR,Parkstonedorset,5882,PKS,PKS-5882-PCP-002,2,,,,
+SWR,Petersfield,5657,PTR,PTR-5657-PCP-001,1,,,,
+SWR,Pinhoe,5757,PIN,PIN-5757-PCP-001,1,,,,
+SWR,Pinhoe,5757,PIN,PIN-5757-PCP-002,2,,,,
+SWR,Pokesdown,5885,POK,POK-5885-PCP-001,1,,,,
+SWR,Pokesdown,5885,POK,POK-5885-PCP-002,2,,,,
+SWR,Poole,5883,POO,POO-5883-PCP-001,1,,,,
+SWR,Poole,5883,POO,POO-5883-PCP-002,2,,,,
+SWR,Poole,5883,POO,POO-5883-PCP-003,3,,,,
+SWR,Poole,5883,POO,POO-5883-PCP-004,4,,,,
+SWR,Poole,5883,POO,POO-5883-PCP-005,5,,,,
+SWR,Portchester,5928,PTC,PTC-5928-PCP-001,1,,,,
+SWR,Portchester,5928,PTC,PTC-5928-PCP-002,2,,,,
+SWR,Portchester,5928,PTC,PTC-5928-PCP-003,3,,,,
+SWR,Portchester,5928,PTC,PTC-5928-PCP-004,4,,,,
+SWR,Portsmouthhbr,5540,PMH,PMH-5540-PCP-001,1,,,,
+SWR,Portsmouthhbr,5540,PMH,PMH-5540-PCP-003,3,,,,
+SWR,Portsmouthhbr,5540,PMH,PMH-5540-PCP-004,4,,,,
+SWR,Portsmouthhbr,5540,PMH,PMH-5540-PCP-005,5,,,,
+SWR,Portsmouthhbr,5540,PMH,PMH-5540-PCP-006,6,,,,
+SWR,Redbridgehants,5912,RDB,RDB-5912-PCP-001,1,,,,
+SWR,Redbridgehants,5912,RDB,RDB-5912-PCP-002,2,,,,
+SWR,Romsey,5943,ROM,ROM-5943-PCP-001,1,,,,
+SWR,Romsey,5943,ROM,ROM-5943-PCP-002,2,,,,
+SWR,Rowlandscastle,5658,RLN,RLN-5658-PCP-001,1,,,,
+SWR,Rowlandscastle,5658,RLN,RLN-5658-PCP-002,2,,,,
+SWR,Rydeesplanade,5542,RYD,RYD-5542-PCP-001,1,,,,
+SWR,Rydeesplanade,5542,RYD,RYD-5542-PCP-002,2,,,,
+SWR,Rydepierhead,5541,RYP,RYP-5541-PCP-001,1,,,,
+SWR,Rydepierhead,5541,RYP,RYP-5541-PCP-002,2,,,,
+SWR,Rydepierhead,5541,RYP,RYP-5541-PCP-003,3,,,,
+SWR,Rydestjohnsrd,5543,RYR,RYR-5543-PCP-001,1,,,,
+SWR,Rydestjohnsrd,5543,RYR,RYR-5543-PCP-002,2,,,,
+SWR,Sandown,5525,SAN,SAN-5525-PCP-001,1,,,,
+SWR,Sandown,5525,SAN,SAN-5525-PCP-002,2,,,,
+SWR,Sandown,5525,SAN,SAN-5525-PCP-003,3,,,,
+SWR,Shanklin,5529,SHN,SHN-5529-PCP-001,1,,,,
+SWR,Shanklin,5529,SHN,SHN-5529-PCP-002,2,,,,
+SWR,Shawford,5929,SHW,SHW-5929-PCP-001,1,,,,
+SWR,Shawford,5929,SHW,SHW-5929-PCP-002,2,,,,
+SWR,Shepperton,5605,SHP,SHP-5605-PCP-001,1,,,,
+SWR,Shepperton,5605,SHP,SHP-5605-PCP-002,2,,,,
+SWR,Sherborne,5835,SHE,SHE-5835-PCP-001,1,,,,
+SWR,Sherborne,5835,SHE,SHE-5835-PCP-002,2,,,,
+SWR,Sholing,5930,SHO,SHO-5930-PCP-001,1,,,,
+SWR,Sholing,5930,SHO,SHO-5930-PCP-002,2,,,,
+SWR,Southamptonair,5922,SOA,SOA-5922-PCP-001,1,,,,
+SWR,Southamptonair,5922,SOA,SOA-5922-PCP-002,2,,,,
+SWR,Southamptonair,5922,SOA,SOA-5922-PCP-003,3,,,,
+SWR,Southamptonair,5922,SOA,SOA-5922-PCP-004,4,,,,
+SWR,Southamptonair,5922,SOA,SOA-5922-PCP-005,5,,,,
+SWR,Southamptonair,5922,SOA,SOA-5922-PCP-006,6,,,,
+SWR,Southamptonctl,5932,SOU,SOU-5932-PCP-001,1,,,,
+SWR,Southamptonctl,5932,SOU,SOU-5932-PCP-002,2,,,,
+SWR,Southamptonctl,5932,SOU,SOU-5932-PCP-003,3,,,,
+SWR,Staines,5670,SNS,SNS-5670-PCP-002,2,,,,
+SWR,Staines,5670,SNS,SNS-5670-PCP-004,4,,,,
+SWR,Staines,5670,SNS,SNS-5670-PCP-998,998,,,,
+SWR,Stdenys,5914,SDN,SDN-5914-PCP-001,1,,,,
+SWR,Stdenys,5914,SDN,SDN-5914-PCP-002,2,,,,
+SWR,Stdenys,5914,SDN,SDN-5914-PCP-003,3,,,,
+SWR,Sunbury,5608,SUU,SUU-5608-PCP-001,1,,,,
+SWR,Sunbury,5608,SUU,SUU-5608-PCP-002,2,,,,
+SWR,Sunbury,5608,SUU,SUU-5608-PCP-003,3,,,,
+SWR,Sunningdale,5671,SNG,SNG-5671-PCP-001,1,,,,
+SWR,Sunningdale,5671,SNG,SNG-5671-PCP-002,2,,,,
+SWR,Sunningdale,5671,SNG,SNG-5671-PCP-003,3,,,,
+SWR,Sunnymeads,5675,SNY,SNY-5675-PCP-001,1,,,,
+SWR,Sunnymeads,5675,SNY,SNY-5675-PCP-002,2,,,,
+SWR,Swanwick,5920,SNW,SNW-5920-PCP-001,1,,,,
+SWR,Swanwick,5920,SNW,SNW-5920-PCP-002,2,,,,
+SWR,Sway,5884,SWY,SWY-5884-PCP-001,1,,,,
+SWR,Sway,5884,SWY,SWY-5884-PCP-002,2,,,,
+SWR,Sway,5884,SWY,SWY-5884-PCP-003,3,,,,
+SWR,Swaythling,5933,SWG,SWG-5933-PCP-001,1,,,,
+SWR,Swaythling,5933,SWG,SWG-5933-PCP-002,2,,,,
+SWR,Swaythling,5933,SWG,SWG-5933-PCP-003,3,,,,
+SWR,Swaythling,5933,SWG,SWG-5933-PCP-004,4,,,,
+SWR,Templecombe,5837,TMC,TMC-5837-PCP-001,1,,,,
+SWR,Tisbury,5798,TIS,TIS-5798-PCP-001,1,,,,
+SWR,Tisbury,5798,TIS,TIS-5798-PCP-002,2,,,,
+SWR,Totton,5921,TTN,TTN-5921-PCP-001,1,,,,
+SWR,Totton,5921,TTN,TTN-5921-PCP-002,2,,,,
+SWR,Totton,5921,TTN,TTN-5921-PCP-003,3,,,,
+SWR,Totton,5921,TTN,TTN-5921-PCP-004,4,,,,
+SWR,Upperhalliford,5613,UPH,UPH-5613-PCP-001,1,,,,
+SWR,Upwey,5967,UPW,UPW-5967-PCP-001,1,,,,
+SWR,Upwey,5967,UPW,UPW-5967-PCP-002,2,,,,
+SWR,Virginiawater,5676,VIR,VIR-5676-PCP-001,1,,,,
+SWR,Waltononthames,5575,WAL,WAL-5575-PCP-001,1,,,,
+SWR,Waltononthames,5575,WAL,WAL-5575-PCP-002,2,,,,
+SWR,Waltononthames,5575,WAL,WAL-5575-PCP-003,3,,,,
+SWR,Wanborough,5639,WAN,WAN-5639-PCP-001,1,,,,
+SWR,Warehamdorset,5959,WRM,WRM-5959-PCP-001,1,,,,
+SWR,Warehamdorset,5959,WRM,WRM-5959-PCP-002,2,,,,
+SWR,Warehamdorset,5959,WRM,WRM-5959-PCP-003,3,,,,
+SWR,Warehamdorset,5959,WRM,WRM-5959-PCP-004,4,,,,
+SWR,Westbyfleet,5684,WBY,WBY-5684-PCP-001,1,,,,
+SWR,Westbyfleet,5684,WBY,WBY-5684-PCP-002,2,,,,
+SWR,Westbyfleet,5684,WBY,WBY-5684-PCP-003,3,,,,
+SWR,Weybridge,5577,WYB,WYB-5577-PCP-001,1,,,,
+SWR,Weybridge,5577,WYB,WYB-5577-PCP-002,2,,,,
+SWR,Weymouth,5965,WEY,WEY-5965-PCP-001,1,,,,
+SWR,Weymouth,5965,WEY,WEY-5965-PCP-002,2,,,,
+SWR,Weymouth,5965,WEY,WEY-5965-PCP-003,3,,,,
+SWR,Weymouth,5965,WEY,WEY-5965-PCP-004,4,,,,
+SWR,Whimple,5759,WHM,WHM-5759-PCP-001,1,,,,
+SWR,Whitchurchhants,5527,WCH,WCH-5527-PCP-001,1,,,,
+SWR,Whitchurchhants,5527,WCH,WCH-5527-PCP-002,2,,,,
+SWR,Whitchurchhants,5527,WCH,WCH-5527-PCP-003,3,,,,
+SWR,Winchester,5924,WIN,WIN-5924-PCP-001,1,,,,
+SWR,Winchester,5924,WIN,WIN-5924-PCP-002,2,,,,
+SWR,Winchfield,5528,WNF,WNF-5528-PCP-001,1,,,,
+SWR,Winchfield,5528,WNF,WNF-5528-PCP-002,2,,,,
+SWR,Winchfield,5528,WNF,WNF-5528-PCP-003,3,,,,
+SWR,Winchfield,5528,WNF,WNF-5528-PCP-004,4,,,,
+SWR,Windsor&Eriv,5672,WNR,WNR-5672-PCP-003,3,,,,
+SWR,Windsor&Eriv,5672,WNR,WNR-5672-PCP-005,5,,,,
+SWR,Windsor&Eriv,5672,WNR,WNR-5672-PCP-998,998,,,,
+SWR,Winnersh,5697,WNS,WNS-5697-PCP-001,1,,,,
+SWR,Winnersh,5697,WNS,WNS-5697-PCP-002,2,,,,
+SWR,Winnershtrangle,5698,WTI,WTI-5698-PCP-001,1,,,,
+SWR,Winnershtrangle,5698,WTI,WTI-5698-PCP-002,2,,,,
+SWR,Witley,5640,WTY,WTY-5640-PCP-001,1,,,,
+SWR,Witley,5640,WTY,WTY-5640-PCP-002,2,,,,
+SWR,Witley,5640,WTY,WTY-5640-PCP-003,3,,,,
+SWR,Woking,5685,WOK,WOK-5685-PCP-001,1,,,,
+SWR,Wokingham,5696,WKM,WKM-5696-PCP-001,1,,,,
+SWR,Wool,5960,WOO,WOO-5960-PCP-001,1,,,,
+SWR,Wool,5960,WOO,WOO-5960-PCP-002,2,,,,
+SWR,Wool,5960,WOO,WOO-5960-PCP-003,3,,,,
+SWR,Woolston,5925,WLS,WLS-5925-PCP-001,1,,,,
+SWR,Woolston,5925,WLS,WLS-5925-PCP-002,2,,,,
+SWR,Worplesdon,5686,WPL,WPL-5686-PCP-001,1,,,,
+SWR,Worplesdon,5686,WPL,WPL-5686-PCP-002,2,,,,
+SWR,Wraysbury,5673,WRY,WRY-5673-PCP-001,1,,,,
+SWR,Wraysbury,5673,WRY,WRY-5673-PCP-002,2,,,,
+SWR,Wraysbury,5673,WRY,WRY-5673-PCP-003,3,,,,
+SWR,Yeoviljunction,5838,YVJ,YVJ-5838-PCP-001,1,,,,
+SWR,Yeoviljunction,5838,YVJ,YVJ-5838-PCP-002,2,,,,
+TFWR,Aber,3813,ABE,ABE-3813-PCP-001,1,,,,
+TFWR,Aber,3813,ABE,ABE-3813-PCP-002,2,,,,
+TFWR,Abercynon,3801,ACY,ACY-3801-PCP-001,1,,,,
+TFWR,Aberdare,3982,ABA,ABA-3982-PCP-001,1,,,,
+TFWR,Aberdare,3982,ABA,ABA-3982-PCP-002,2,,,,
+TFWR,Abergavenny,3602,AGV,AGV-3602-PCP-001,1,,,,
+TFWR,Abergavenny,3602,AGV,AGV-3602-PCP-002,2,,,,
+TFWR,Bargoed,4011,BGD,BGD-4011-PCP-001,1,,,,
+TFWR,Bargoed,4011,BGD,BGD-4011-PCP-002,2,,,,
+TFWR,Bargoed,4011,BGD,BGD-4011-PCP-003,3,,,,
+TFWR,Barry,3805,BRY,BRY-3805-PCP-001,1,,,,
+TFWR,Barry,3805,BRY,BRY-3805-PCP-002,2,,,,
+TFWR,Barrydocks,3806,BYD,BYD-3806-PCP-001,1,,,,
+TFWR,Barryisland,3807,BYI,BYI-3807-PCP-001,1,,,,
+TFWR,Birchgrove,3907,BCG,BCG-3907-PCP-001,1,,,,
+TFWR,Bridgend,3809,BGN,BGN-3809-PCP-001,1,,,,
+TFWR,Bridgend,3809,BGN,BGN-3809-PCP-002,2,,,,
+TFWR,Brithdir,4012,BHD,BHD-4012-PCP-001,1,,,,
+TFWR,Cadoxton,3811,CAD,CAD-3811-PCP-001,1,,,,
+TFWR,Cadoxton,3811,CAD,CAD-3811-PCP-002,2,,,,
+TFWR,Caerphilly,3812,CPH,CPH-3812-PCP-001,1,,,,
+TFWR,Caerphilly,3812,CPH,CPH-3812-PCP-002,2,,,,
+TFWR,Caerphilly,3812,CPH,CPH-3812-PCP-003,3,,,,
+TFWR,Caerphilly,3812,CPH,CPH-3812-PCP-004,4,,,,
+TFWR,Caldicot,3680,CDT,CDT-3680-PCP-001,1,,,,
+TFWR,Caldicot,3680,CDT,CDT-3680-PCP-002,2,,,,
+TFWR,Cardiffbay,3815,CDB,CDB-3815-PCP-001,1,,,,
+TFWR,Cardiffcentral,3899,CDF,CDF-3899-PCP-001,1,,,,
+TFWR,Cardiffqstreet,3900,CDQ,CDQ-3900-PCP-001,1,,,,
+TFWR,Cardiffqstreet,3900,CDQ,CDQ-3900-PCP-002,2,,,,
+TFWR,Cathays,3820,CYS,CYS-3820-PCP-001,1,,,,
+TFWR,Cathays,3820,CYS,CYS-3820-PCP-002,2,,,,
+TFWR,Chepstow,3774,CPW,CPW-3774-PCP-001,1,,,,
+TFWR,Cogan,3828,CGN,CGN-3828-PCP-001,1,,,,
+TFWR,Cogan,3828,CGN,CGN-3828-PCP-002,2,,,,
+TFWR,Coryton,3905,COY,COY-3905-PCP-001,1,,,,
+TFWR,Crosskeys,9902,CKY,CKY-9902-PCP-001,1,,,,
+TFWR,Crosskeys,9902,CKY,CKY-9902-PCP-002,2,,,,
+TFWR,Cwmbach,3981,CMH,CMH-3981-PCP-001,1,,,,
+TFWR,Cwmbran,3738,CWM,CWM-3738-PCP-001,1,,,,
+TFWR,Cwmbran,3738,CWM,CWM-3738-PCP-002,2,,,,
+TFWR,Cwmbran,3738,CWM,CWM-3738-PCP-003,3,,,,
+TFWR,Danescourt,3797,DCT,DCT-3797-PCP-001,1,,,,
+TFWR,Danescourt,3797,DCT,DCT-3797-PCP-002,2,,,,
+TFWR,Dinarhondda,3901,DMG,DMG-3901-PCP-001,1,,,,
+TFWR,Dinaspowys,3830,DNS,DNS-3830-PCP-001,1,,,,
+TFWR,Dinaspowys,3830,DNS,DNS-3830-PCP-002,2,,,,
+TFWR,Dingleroad,3861,DGL,DGL-3861-PCP-001,1,,,,
+TFWR,Eastbrook,3795,EBK,EBK-3795-PCP-001,1,,,,
+TFWR,Eastbrook,3795,EBK,EBK-3795-PCP-002,2,,,,
+TFWR,Eastbrook,3795,EBK,EBK-3795-PCP-003,3,,,,
+TFWR,Ebbwvaleparkway,9915,EBV,EBV-9915-PCP-001,1,,,,
+TFWR,Ebbwvaletown,3628,EBB,EBB-3628-PCP-001,1,,,,
+TFWR,Energlynandchurchillpark,375,ECP,ECP-0375-PCP-001,1,,,,
+TFWR,Energlynandchurchillpark,375,ECP,ECP-0375-PCP-002,2,,,,
+TFWR,Energlynandchurchillpark,375,ECP,ECP-0375-PCP-003,3,,,,
+TFWR,Fairwater,3873,FRW,FRW-3873-PCP-001,1,,,,
+TFWR,Fairwater,3873,FRW,FRW-3873-PCP-002,2,,,,
+TFWR,Fernhill,3862,FER,FER-3862-PCP-001,1,,,,
+TFWR,Gilfachfargoed,4022,GFF,GFF-4022-PCP-001,1,,,,
+TFWR,Grangetown,3839,GTN,GTN-3839-PCP-001,1,,,,
+TFWR,Heathhighlevel,3845,HHL,HHL-3845-PCP-001,1,,,,
+TFWR,Heathhighlevel,3845,HHL,HHL-3845-PCP-002,2,,,,
+TFWR,Heathlowlevel,3908,HLL,HLL-3908-PCP-001,1,,,,
+TFWR,Hengoed,4028,HNG,HNG-4028-PCP-001,1,,,,
+TFWR,Hengoed,4028,HNG,HNG-4028-PCP-002,2,,,,
+TFWR,Hengoed,4028,HNG,HNG-4028-PCP-003,3,,,,
+TFWR,Lisvaneandthornhill,3853,LVT,LVT-3853-PCP-001,1,,,,
+TFWR,Lisvaneandthornhill,3853,LVT,LVT-3853-PCP-002,2,,,,
+TFWR,Llanbradach,4018,LNB,LNB-4018-PCP-001,1,,,,
+TFWR,Llanbradach,4018,LNB,LNB-4018-PCP-002,2,,,,
+TFWR,Llandaf,3844,LLN,LLN-3844-PCP-001,1,,,,
+TFWR,Llandaf,3844,LLN,LLN-3844-PCP-002,2,,,,
+TFWR,Llandaf,3844,LLN,LLN-3844-PCP-003,3,,,,
+TFWR,Llandaf,3844,LLN,LLN-3844-PCP-004,4,,,,
+TFWR,Llanharan,9925,LLR,LLR-9925-PCP-001,1,,,,
+TFWR,Llanharan,9925,LLR,LLR-9925-PCP-002,2,,,,
+TFWR,Llanharan,9925,LLR,LLR-9925-PCP-003,3,,,,
+TFWR,Llanhilleth,9916,LTH,LTH-9916-PCP-001,1,,,,
+TFWR,Llanishen,3847,LLS,LLS-3847-PCP-001,1,,,,
+TFWR,Llanishen,3847,LLS,LLS-3847-PCP-002,2,,,,
+TFWR,Llantwitmajor,9699,LWM,LWM-9699-PCP-001,1,,,,
+TFWR,Llantwitmajor,9699,LWM,LWM-9699-PCP-002,2,,,,
+TFWR,Llwynypia,3852,LLY,LLY-3852-PCP-001,1,,,,
+TFWR,Llwynypia,3852,LLY,LLY-3852-PCP-002,2,,,,
+TFWR,Maesteg,3963,MST,MST-3963-PCP-001,1,,,,
+TFWR,Maesteg,3963,MST,MST-3963-PCP-002,2,,,,
+TFWR,Maestegewennyrd,3962,MEW,MEW-3962-PCP-001,1,,,,
+TFWR,Merthyrtydfil,3855,MER,MER-3855-PCP-001,1,,,,
+TFWR,Merthyrvale,3857,MEV,MEV-3857-PCP-001,1,,,,
+TFWR,Merthyrvale,3857,MEV,MEV-3857-PCP-002,2,,,,
+TFWR,Mountainash,3859,MTA,MTA-3859-PCP-001,1,,,,
+TFWR,Mountainash,3859,MTA,MTA-3859-PCP-002,2,,,,
+TFWR,Newbridge,9919,NBE,NBE-9919-PCP-001,1,,,,
+TFWR,Newport,3674,NWP,NWP-3674-PCP-001,1,,,,
+TFWR,Newport,3674,NWP,NWP-3674-PCP-002,2,,,,
+TFWR,Newport,3674,NWP,NWP-3674-PCP-003,3,,,,
+TFWR,Ninianpark,3895,NNP,NNP-3895-PCP-001,1,,,,
+TFWR,Ninianpark,3895,NNP,NNP-3895-PCP-002,2,,,,
+TFWR,Penarth,3863,PEN,PEN-3863-PCP-001,1,,,,
+TFWR,Penarth,3863,PEN,PEN-3863-PCP-002,2,,,,
+TFWR,Pencoed,3851,PCD,PCD-3851-PCP-001,1,,,,
+TFWR,Pencoed,3851,PCD,PCD-3851-PCP-002,2,,,,
+TFWR,Pencoed,3851,PCD,PCD-3851-PCP-003,3,,,,
+TFWR,Pengam,4021,PGM,PGM-4021-PCP-001,1,,,,
+TFWR,Pengam,4021,PGM,PGM-4021-PCP-002,2,,,,
+TFWR,Pengam,4021,PGM,PGM-4021-PCP-003,3,,,,
+TFWR,Penrhiwceiber,3992,PER,PER-3992-PCP-001,1,,,,
+TFWR,Pentrebach,3944,PTB,PTB-3944-PCP-001,1,,,,
+TFWR,Pontlottyn,4023,PLT,PLT-4023-PCP-001,1,,,,
+TFWR,Pontyclun,3850,PYC,PYC-3850-PCP-001,1,,,,
+TFWR,Pontyclun,3850,PYC,PYC-3850-PCP-002,2,,,,
+TFWR,Pontypool,3744,PPL,PPL-3744-PCP-001,1,,,,
+TFWR,Pontypridd,3904,PPD,PPD-3904-PCP-001,1,,,,
+TFWR,Pontypridd,3904,PPD,PPD-3904-PCP-002,2,,,,
+TFWR,Pontypridd,3904,PPD,PPD-3904-PCP-003,3,,,,
+TFWR,Porth,3870,POR,POR-3870-PCP-001,1,,,,
+TFWR,Porth,3870,POR,POR-3870-PCP-002,2,,,,
+TFWR,Porth,3870,POR,POR-3870-PCP-003,3,,,,
+TFWR,Pyecorner,1663,PYE,PYE-1663-PCP-001,1,,,,
+TFWR,Pyle,4185,PYL,PYL-4185-PCP-001,1,,,,
+TFWR,Pyle,4185,PYL,PYL-4185-PCP-002,2,,,,
+TFWR,Quakersyard,3994,QYD,QYD-3994-PCP-001,1,,,,
+TFWR,Radyr,3874,RDR,RDR-3874-PCP-001,1,,,,
+TFWR,Rhiwbina,3906,RHI,RHI-3906-PCP-001,1,,,,
+TFWR,Rhoose,3876,RIA,RIA-3876-PCP-001,1,,,,
+TFWR,Rhoose,3876,RIA,RIA-3876-PCP-002,2,,,,
+TFWR,Rhymney,4027,RHY,RHY-4027-PCP-001,1,,,,
+TFWR,Rhymney,4027,RHY,RHY-4027-PCP-002,2,,,,
+TFWR,Risca,9920,RCA,RCA-9920-PCP-001,1,,,,
+TFWR,Risca,9920,RCA,RCA-9920-PCP-002,2,,,,
+TFWR,Rogerstone,9921,ROR,ROR-9921-PCP-001,1,,,,
+TFWR,Sarn,4270,SRR,SRR-4270-PCP-001,1,,,,
+TFWR,Severntunneljn,3679,STJ,STJ-3679-PCP-001,1,,,,
+TFWR,Severntunneljn,3679,STJ,STJ-3679-PCP-002,2,,,,
+TFWR,Taffswell,3880,TAF,TAF-3880-PCP-002,2,,,,
+TFWR,Tir-Phil,4025,TIR,TIR-4025-PCP-001,1,,,,
+TFWR,Tir-Phil,4025,TIR,TIR-4025-PCP-002,2,,,,
+TFWR,Tir-Phil,4025,TIR,TIR-4025-PCP-003,3,,,,
+TFWR,Tondu,4271,TDU,TDU-4271-PCP-001,1,,,,
+TFWR,Tondu,4271,TDU,TDU-4271-PCP-002,2,,,,
+TFWR,Tonpentre,3897,TPN,TPN-3897-PCP-001,1,,,,
+TFWR,Tonypandy,3882,TNP,TNP-3882-PCP-001,1,,,,
+TFWR,Tonypandy,3882,TNP,TNP-3882-PCP-002,2,,,,
+TFWR,Treforest,3887,TRF,TRF-3887-PCP-001,1,,,,
+TFWR,Treforest,3887,TRF,TRF-3887-PCP-002,2,,,,
+TFWR,Treforestestate,3886,TRE,TRE-3886-PCP-001,1,,,,
+TFWR,Trehafod,3888,TRH,TRH-3888-PCP-001,1,,,,
+TFWR,Trehafod,3888,TRH,TRH-3888-PCP-002,2,,,,
+TFWR,Treherbert,3889,TRB,TRB-3889-PCP-001,1,,,,
+TFWR,Treorchy,3891,TRY,TRY-3891-PCP-001,1,,,,
+TFWR,Treorchy,3891,TRY,TRY-3891-PCP-002,2,,,,
+TFWR,Troed-Y-Rhiw,4276,TRD,TRD-4276-PCP-001,1,,,,
+TFWR,Tyglas,3817,TGS,TGS-3817-PCP-001,1,,,,
+TFWR,Waungronpark,3796,WNG,WNG-3796-PCP-001,1,,,,
+TFWR,Waungronpark,3796,WNG,WNG-3796-PCP-002,2,,,,
+TFWR,Whitchurch,3896,WHT,WHT-3896-PCP-001,1,,,,
+TFWR,Wildmill,3965,WMI,WMI-3965-PCP-001,1,,,,
+TFWR,Ynyswen,3818,YNW,YNW-3818-PCP-001,1,,,,
+TFWR,Ynyswen,3818,YNW,YNW-3818-PCP-002,2,,,,
+TFWR,Ystradmynach,4026,YSM,YSM-4026-PCP-001,1,,,,
+TFWR,Ystradmynach,4026,YSM,YSM-4026-PCP-002,2,,,,
+TFWR,Ystradmynach,4026,YSM,YSM-4026-PCP-003,3,,,,
+TFWR,Ystradrhondda,3871,YSR,YSR-3871-PCP-001,1,,,,
+TFWR,Ystradrhondda,3871,YSR,YSR-3871-PCP-002,2,,,,
+TFWR,Ystradrhondda,3871,YSR,YSR-3871-PCP-003,3,,,,
+TFWR,Ystradrhondda,3871,YSR,YSR-3871-PCP-004,4,,,,
+,,,,,,,,,

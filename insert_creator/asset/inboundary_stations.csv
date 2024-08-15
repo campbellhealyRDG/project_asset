@@ -1,0 +1,256 @@
+﻿SFO,Station name,National Location Code (NLC),"Three Letter Code
+(TLC)",Postcode
+c2c,Barking,7492,BKG,IG11 8TU
+c2c,Chafford Hundred,#N/A,#N/A,#N/A
+c2c,Dagenham Dock,7440,DDK,RM9 6EG
+c2c,Fenchurch Street,#N/A,#N/A,#N/A
+c2c,Grays,7443,GRY,RM17 6NQ
+c2c,Limehouse (National Rail station),#N/A,#N/A,#N/A
+c2c,Ockendon,7451,OCK,RM15 6PD
+c2c,Purfleet,7453,PFL,RM19 1PP
+c2c,Rainham (Essex),7454,RNM,RM13 9JA
+c2c,Upminster,7464,UPM,RM14 2TD
+Chiltern,Marylebone,#N/A,#N/A,#N/A
+Chiltern,Northolt Park,1478,NLT,UB5 4NP
+Chiltern,Sudbury & Harrow Road,#N/A,#N/A,#N/A
+Chiltern,Sudbury Hill Harrow,1484,SDH,HA1 3RJ
+Chiltern,Wembley Stadium,1509,WCX,HA9 8BQ
+Great Western Railway,Castle Bar Park,3098,CBP,W7 1BA
+Great Western Railway,Drayton Green,3099,DRG,W13 4SW
+Great Western Railway,Paddington (National Rail station),#N/A,#N/A,#N/A
+Great Western Railway,South Greenford,3138,SGN,UB6 2WE
+Greater Anglia,Brimsdown,6810,BMD,EN3 7SH
+Greater Anglia,Broxbourne,6812,BXB,EN10 7AW
+Greater Anglia,Cheshunt,6814,CHN,EN8 9AQ
+Greater Anglia,Enfield Lock,6815,ENL,EN3 6HA
+Greater Anglia,Hertford East,6818,HFE,SG14 1SB
+Greater Anglia,Lea Bridge,6927,LEB,E10 7PG
+Greater Anglia,Liverpool Street (National Rail station),#N/A,#N/A,#N/A
+Greater Anglia,Meridian Water,6599,MRW,N18 3HF
+Greater Anglia,Northumberland Park,6971,NUM,N17 0HY
+Greater Anglia,Ponders End,6819,PON,EN3 4QB
+Greater Anglia,Rye House,6820,RYH,EN11 0EG
+Greater Anglia,Shenfield,6888,SNF,CM15 8JD
+Greater Anglia,St Margarets Herts,#N/A,#N/A,#N/A
+Greater Anglia,Waltham Cross,6823,WLC,EN8 7LU
+Greater Anglia,Ware,#N/A,#N/A,#N/A
+GTR,Alexandra Palace,6025,AAP,N22 7ST
+GTR,Balham,5399,BAL,SW12 9SG
+GTR,Banstead,5348,BAD,SM7 1PZ
+GTR,Battersea Park,5420,BAK,SW8 4BH
+GTR,Bayford,6006,BAY,SG13 8PH
+GTR,Beckenham Hill,5076,BEC,SE6 3RE
+GTR,Bellingham,5062,BGM,SE6 3BT
+GTR,Belmont,5350,BLM,SM2 6BH
+GTR,Birkbeck,5401,BIK,BR3 4TA
+GTR,Bowes Park,6027,BOP,N22 4NT
+GTR,Carshalton,5405,CSH,SM5 2HW
+GTR,Carshalton Beeches,5406,CSB,SM5 3RF
+GTR,Caterham,5351,CAT,CR3 6LB
+GTR,Catford,5077,CTF,SE6 4RW
+GTR,Cheam,5352,CHE,SM2 7AJ
+GTR,Chipstead,5353,CHP,CR3 3TD
+GTR,City Thameslink,5121,CTK,EC4M 7JH
+GTR,Coulsdon South,5408,CDS,CR5 3EA
+GTR,Coulsdon Town,5382,CDN,CR5 2BQ
+GTR,Crews Hill,6007,CWH,EN2 9EA
+GTR,Cricklewood,1519,CRI,NW2 1HL
+GTR,Crofton Park,5078,CFT,SE4 2PH
+GTR,Cuffley,6008,CUF,EN6 4HY
+GTR,Denmark Hill,5421,DMK,SE5 8BB
+GTR,Drayton Park,6000,DYP,N5 1NT
+GTR,Earlswood,#N/A,#N/A,#N/A
+GTR,East Croydon,5355,ECR,CR0 1LF
+GTR,East Dulwich,5358,EDW,SE22 8EF
+GTR,Elephant & Castle (National Rail station),#N/A,#N/A,#N/A
+GTR,Elstree,#N/A,#N/A,#N/A
+GTR,Enfield Chase,6010,ENC,EN2 7AA
+GTR,Epsom,#N/A,#N/A,#N/A
+GTR,Epsom Downs,5361,EPD,KT17 4JX
+GTR,Essex Road,6004,EXR,N1 2SU
+GTR,Ewell East,5415,EWE,KT17 1QR
+GTR,Finsbury Park (See Note 1),#N/A,#N/A,#N/A
+GTR,Gatwick Airport,5416,GTW,RH6 0RD
+GTR,Gipsy Hill,5363,GIP,SE19 1QL
+GTR,Gordon Hill,6028,GDH,EN2 0QU
+GTR,Grange Park,6029,GPK,N21 1RE
+GTR,Hackbridge,5364,HCB,SM6 7BJ
+GTR,Hadley Wood,6075,HDW,EN4 0EL
+GTR,Harringay,6012,HGY,N4 1RE
+GTR,Haydons Road,5289,HYR,SW19 8SL
+GTR,Hendon,1522,HEN,NW4 4PT
+GTR,Hertford North,6085,HFN,SG14 1NB
+GTR,Horley,5365,HOR,RH6 7NL
+GTR,Hornsey,6015,HRN,N8 9DJ
+GTR,Kenley,5419,KLY,CR8 5DF
+GTR,King's Cross (National Rail station),#N/A,#N/A,#N/A
+GTR,Kingswood,5366,KND,KT20 6EN
+GTR,London Blackfriars,5112,BFR,#N/A
+GTR,London Bridge (National Rail station) 8-16,#N/A,#N/A,#N/A
+GTR,Loughborough Junction,5082,LGJ,SW9 8SA
+GTR,Merstham,5475,MHM,RH1 3ED
+GTR,Mill Hill Broadway,1527,MIL,NW7 2JU
+GTR,Mitcham Eastfields,5069,MTC,CR4 2LS
+GTR,Mitcham Junction,5427,MIJ,CR4 4HN
+GTR,Morden South,5291,MDS,SM4 4QL
+GTR,New Barnet,6018,NBA,EN5 1QT
+GTR,New Southgate,6019,NSG,N11 1QH
+GTR,Norbury,5428,NRB,SW16 3RW
+GTR,North Dulwich,5429,NDL,SE24 7BX
+GTR,Nunhead,5068,NHD,SE15 3XE
+GTR,Oakleigh Park,6020,OKL,EN5 1BU
+GTR,Palmers Green,6021,PAL,N13 4PN
+GTR,Peckham Rye,5423,PMR,SE15 4RX
+GTR,Potters Bar,6022,PBR,EN6 1AJ
+GTR,Purley,5379,PUR,CR2 2AP
+GTR,Purley Oaks,5430,PUO,CR2 0ND
+GTR,Queens Road Peckham,#N/A,#N/A,#N/A
+GTR,Radlett,1546,RDT,WD7 7AP
+GTR,Ravensbourne,5083,RVB,BR3 5HE
+GTR,Redhill,5478,RDH,RH1 1RB
+GTR,Reedham,#N/A,#N/A,#N/A
+GTR,Riddlesdown,5432,RDD,CR8 1HN
+GTR,Salfords,#N/A,#N/A,#N/A
+GTR,Sanderstead,5433,SNR,CR2 0PL
+GTR,Selhurst,5434,SRS,SE25 6LH
+GTR,South Bermondsey,5425,SBM,SE16 3JB
+GTR,South Croydon,5410,SCY,CR2 7PA
+GTR,South Merton,5292,SMO,SW20 9JT
+GTR,St Helier,#N/A,#N/A,#N/A
+GTR,St Pancras International,#N/A,#N/A,#N/A
+GTR,Streatham,#N/A,#N/A,#N/A
+GTR,Streatham Common,5384,SRC,SW16 5NT
+GTR,Streatham Hill,5435,SRH,SW2 4SA
+GTR,Sutton,#N/A,#N/A,#N/A
+GTR,Sutton Common,5436,SUC,SM1 3HY
+GTR,Tadworth,5386,TAD,KT18 5AJ
+GTR,Tattenham Corner,5387,TAT,KT18 5QD
+GTR,Thornton Heath,5388,TTH,CR7 8RX
+GTR,Tooting,5389,TOO,SW17 9JR
+GTR,Tulse Hill,5390,TUH,SE27 9BW
+GTR,Upper Warlingham,5391,UWL,CR3 0EP
+GTR,Victoria (National Rail Station) 9-19,#N/A,#N/A,#N/A
+GTR,Waddon,5392,WDO,CR0 4UP
+GTR,Wallington,5394,WLT,SM6 0DZ
+GTR,Wandsworth Common,5395,WSW,SW12 8SG
+GTR,West Hampstead Thameslink,1525,WHP,NW6 2RB
+GTR,West Norwood,5438,WNW,SE27 0HS
+GTR,West Sutton,5293,WSU,SM1 2EY
+GTR,Whyteleafe,5396,WHY,CR3 0AD
+GTR,Whyteleafe South,5439,WHS,CR3 0BB
+GTR,Wimbledon Chase,5612,WBO,SW20 8JT
+GTR,Winchmore Hill,6024,WIH,N21 3NG
+GTR,Woodmansterne,5441,WME,CR5 3HS
+South Western Railway,Barnes,5551,BNS,SW13 0HT
+South Western Railway,Barnes Bridge,5580,BNI,SW13 0NP
+South Western Railway,Berrylands,5581,BRS,KT5 8LS
+South Western Railway,Brentford,5552,BFD,TW8 8DT
+South Western Railway,Chessington North,5582,CSN,KT9 2RT
+South Western Railway,Chessington South,5554,CSS,KT9 2JR
+South Western Railway,Chiswick,5583,CHK,W4 3HB
+South Western Railway,Clapham Junction,5595,CLJ,SW11 2QP
+South Western Railway,Earlsfield,5584,EAD,SW18 4SR
+South Western Railway,Ewell West,5586,EWW,KT17 1TU
+South Western Railway,Feltham,5559,FEL,TW13 4BY
+South Western Railway,Fulwell,5587,FLW,TW2 5NY
+South Western Railway,Hampton,#N/A,#N/A,#N/A
+South Western Railway,Hampton Court,5561,HMC,KT8 9AE
+South Western Railway,Hampton Wick,5589,HMW,KT1 4DQ
+South Western Railway,Hounslow,5563,HOU,TW3 2DQ
+South Western Railway,Isleworth,5592,ISL,TW7 4BX
+South Western Railway,Kew Bridge,5593,KWB,TW8 9QS
+South Western Railway,Kingston,5565,KNG,KT1 1UJ
+South Western Railway,Malden Manor,5599,MAL,KT3 5PN
+South Western Railway,Mortlake,5600,MTL,SW14 8LN
+South Western Railway,Motspur Park,5645,MOT,KT3 6JJ
+South Western Railway,New Malden,5567,NEM,KT3 4PX
+South Western Railway,Norbiton,5568,NBT,KT2 7AZ
+South Western Railway,North Sheen,5601,NSH,TW9 4QA
+South Western Railway,Putney,5603,PUT,SW15 1RT
+South Western Railway,Queenstown Road Battersea,#N/A,#N/A,#N/A
+South Western Railway,Raynes Park,5569,RAY,SW20 0JY
+South Western Railway,Richmond,#N/A,#N/A,#N/A
+South Western Railway,St Margarets London,#N/A,#N/A,#N/A
+South Western Railway,Stoneleigh,5606,SNL,KT17 2JA
+South Western Railway,Strawberry Hill,5607,STW,TW1 4PP
+South Western Railway,Surbiton,5571,SUR,KT6 4PE
+South Western Railway,Syon Lane,5609,SYL,TW7 5NT
+South Western Railway,Teddington,5572,TED,TW11 0BB
+South Western Railway,Thames Ditton,5610,THD,KT7 0PA
+South Western Railway,Tolworth,5573,TOL,KT5 9NX
+South Western Railway,Twickenham,5574,TWI,TW1 1BD
+South Western Railway,Vauxhall (National Rail Station),#N/A,#N/A,#N/A
+South Western Railway,Wandsworth Town,5576,WNT,SW18 1SU
+South Western Railway,Waterloo (National Rail station),#N/A,#N/A,#N/A
+South Western Railway,Whitton,#N/A,#N/A,#N/A
+South Western Railway,Wimbledon,5578,WIM,SW19 7NL
+South Western Railway,Worcester Park,5579,WCP,KT4 7NB
+Southeastern,Albany Park,5132,AYP,DA5 3HP
+Southeastern,Barnehurst,5089,BNH,DA7 6HQ
+Southeastern,Beckenham Junction,5046,BKJ,BR3 1HY
+Southeastern,Belvedere,5092,BVD,DA17 6JJ
+Southeastern,Bexley,5093,BXY,DA5 1AQ
+Southeastern,Bexleyheath,5094,BXH,DA7 4AA
+Southeastern,Bickley,5063,BKL,BR1 2EB
+Southeastern,Blackheath,5095,BKH,SE3 9LE
+Southeastern,Brixton,5081,BRX,SW9 8JB
+Southeastern,Bromley North,5096,BMN,BR1 3NN
+Southeastern,Bromley South,5064,BMS,BR1 1LX
+Southeastern,Catford Bridge,5047,CFB,SE6 4RH
+Southeastern,Charing Cross (National Rail station),#N/A,#N/A,#N/A
+Southeastern,Charlton,5144,CTN,SE7 7QG
+Southeastern,Chelsfield,5098,CLD,BR6 6EU
+Southeastern,Chislehurst,5099,CIT,BR7 5NN
+Southeastern,Clock House,5048,CLK,BR3 4HJ
+Southeastern,Crayford,5100,CRY,DA1 3PY
+Southeastern,Dartford,5101,DFD,DA1 1BP
+Southeastern,Deptford,5145,DEP,SE8 3NU
+Southeastern,Eden Park,5056,EDN,BR3 3DE
+Southeastern,Elmers End,5049,ELE,BR3 4EJ
+Southeastern,Elmstead Woods,5135,ESD,BR7 5EB
+Southeastern,Eltham,5103,ELW,SE9 6SL
+Southeastern,Erith,5104,ERH,DA8 1TY
+Southeastern,Falconwood,5137,FCN,SE9 2RN
+Southeastern,Greenwich (See Note 1),#N/A,#N/A,#N/A
+Southeastern,Grove Park,5139,GRP,SE12 0DZ
+Southeastern,Hayes (Kent),5050,HYS,#N/A
+Southeastern,Herne Hill,5066,HNH,SE24 0JW
+Southeastern,Hither Green,5107,HGR,SE13 5NF
+Southeastern,Kent House,5080,KTH,BR3 1JF
+Southeastern,Kidbrooke,5108,KDB,SE3 9PL
+Southeastern,Knockholt,5109,KCK,TN14 7HR
+Southeastern,Ladywell,5057,LAD,SE13 7XB
+Southeastern,Lee,#N/A,#N/A,#N/A
+Southeastern,Lewisham (National Rail station),#N/A,#N/A,#N/A
+Southeastern,London Bridge (National Rail station) 1-6,#N/A,#N/A,#N/A
+Southeastern,London Cannon Street,5142,CST,#N/A
+Southeastern,Lower Sydenham,5053,LSY,SE26 5BN
+Southeastern,Maze Hill,5149,MZH,SE10 9XG
+Southeastern,Mottingham,5118,MTG,SE9 4EW
+Southeastern,New Beckenham,5058,NBC,BR3 1QN
+Southeastern,New Cross,5150,NWX,SE14 6LD
+Southeastern,New Eltham,5119,NEH,SE9 2AB
+Southeastern,Orpington,5122,ORP,BR6 0SX
+Southeastern,Penge East,5072,PNE,SE20 7BQ
+Southeastern,Petts Wood,5123,PET,BR5 1NA
+Southeastern,Plumstead,5208,PLU,SE18 7EA
+Southeastern,Shortlands,5084,SRT,BR2 0JA
+Southeastern,Sidcup,5125,SID,DA15 7AW
+Southeastern,Slade Green,5154,SGR,DA8 2NX
+Southeastern,St Johns,#N/A,#N/A,#N/A
+Southeastern,St Mary Cray,5073,SMY,BR5 2PQ
+Southeastern,St Pancras International High Speed,#N/A,#N/A,#N/A
+Southeastern,Stratford International High Speed,#N/A,#N/A,#N/A
+Southeastern,Sundridge Park,5155,SUP,BR1 3TR
+Southeastern,Swanley,5075,SAY,BR8 8JD
+Southeastern,Sydenham Hill,5085,SYH,SE21 7ND
+Southeastern,Victoria (National Rail Station) 1-8,#N/A,#N/A,#N/A
+Southeastern,Waterloo East,#N/A,#N/A,#N/A
+Southeastern,Welling,5128,WLI,DA16 3DN
+Southeastern,West Dulwich,5086,WDU,SE21 8HN
+Southeastern,West Wickham,5054,WWI,BR4 0EH
+Southeastern,Westcombe Park,5151,WCB,SE3 7EQ
+Southeastern,Woolwich Arsenal (National Rail station),#N/A,#N/A,#N/A
+Southeastern,Woolwich Dockyard,5153,WWD,SE18 5JY
+West Midlands Trains,Euston (National Rail station),#N/A,#N/A,#N/A
+West Midlands Trains,Watford Junction,1402,WFJ,WD17 1EU

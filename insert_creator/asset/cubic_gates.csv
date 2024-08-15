@@ -1,0 +1,498 @@
+﻿Operator,Station,Code,Cubic Name,NLC,Gated
+c2c,Basildon,c2c,TOC7494,7494,1
+c2c,Benfleet,c2c,TOC7439,7439,1
+c2c,Chafford 100,c2c,TOC7447,7447,1
+c2c,Chalkwell,c2c,TOC7469,7469,1
+c2c,Dagenham Docks,c2c,TOC7440,7440,1
+c2c,East Tilbury,c2c,TOC7471,7471,1
+c2c,Fenchurch Street,c2c,TOC8513,7490,1
+c2c,Grays,c2c,TOC7443,7443,1
+c2c,Laindon,c2c,TOC7445,7445,1
+c2c,Leigh on Sea,c2c,TOC7446,7446,1
+c2c,Limehouse ,c2c,TOC7491,7491,1
+c2c,Ockendon,c2c,TOC7451,7451,1
+c2c,Pitsea,c2c,TOC7452,7452,1
+c2c,Purfleet,c2c,TOC7453,7453,1
+c2c,Rainham London,c2c,TOC7454,7454,1
+c2c,Shoeburyness,c2c,TOC7455,7455,1
+c2c,Southend Central,c2c,TOC7456,7456,1
+c2c,Southend East,c2c,TOC7457,7457,1
+c2c,Stanford le Hope,c2c,TOC7458,7458,1
+c2c,Thorpe Bay,c2c,TOC7460,7460,1
+c2c,Tilbury Town,c2c,TOC7462,7462,1
+c2c,Upminster,c2c,TOC7464,7464,1
+c2c,West Cliff on Sea,c2c,TOC7476,7476,1
+c2c,West Horndon,c2c,TOC7466,7466,1
+Chiltern,Aylesbury,Chiltern,TOC1492,1492,1
+Chiltern,Banbury,Chiltern,TOC4502,4502,1
+Chiltern,Beaconsfield,Chiltern,TOC3047,3047,1
+Chiltern,Bicester Village,Chiltern,TOC3104,3104,1
+Chiltern,Gerrards Cross,Chiltern,TOC3051,3051,1
+Chiltern,High Wycombe,Chiltern,TOC3054,3054,1
+Chiltern,Leamington Spa,Chiltern,TOC4597,4597,1
+Chiltern,Marylebone,Chiltern,TOC1475,1475,1
+Chiltern,Oxford Parkway,Chiltern,TOC3121,3121,1
+EMR,Corby,EMR,TOC0000,1847,1
+EMR,Derby,EMT,TOC1823,1823,1
+EMR,Kettering,EMR,TOC0000,1857,1
+EMR,Leicester,EMT,TOC1947,1947,1
+EMR,Lincoln,EMT,TOC6340,6340,1
+EMR,Loughborough,EMT,TOC1897,1897,1
+EMR,Nottingham,EMT,TOC1826,1826,1
+EMR,St Pancras International,EMT,TOC1555,1555,1
+EMR,Wellingbrough,EMR,TOC0000,1940,1
+Greater Anglia,Alresford,AGA,TOC6847,6847,1
+Greater Anglia,Althorne,AGA,TOC6869,6869,1
+Greater Anglia,Audley End,AGA,TOC7017,7017,1
+Greater Anglia,Battlesbridge,AGA,TOC6870,6870,1
+Greater Anglia,Billericay,AGA,TOC6871,6871,1
+Greater Anglia,Bishops Stortford,AGA,TOC6800,6800,1
+Greater Anglia,Braintree  Nrthern,AGA,TOC6801,6801,1
+Greater Anglia,Braintree Freeport,AGA,TOC2053,2053,1
+Greater Anglia,Broxbourne,AGA,TOC6812,6812,1
+Greater Anglia,Bures,AGA,TOC3427,3427,1
+Greater Anglia,Burnham on Crouch,AGA,TOC6873,6873,1
+Greater Anglia,Cambridge,AGA,TOC7022,7022,1
+Greater Anglia,Cambridge North,AGA,TOC8001,8001,1
+Greater Anglia,Chappel & Wakes Colne,AGA,TOC3428,7051,1
+Greater Anglia,Chelmsford,AGA,TOC6836,6836,1
+Greater Anglia,Cheshunt,AGA,TOC6814,6814,1
+Greater Anglia,Clacton,AGA,TOC3421,6850,1
+Greater Anglia,Colchester ,AGA,TOC6861,6861,1
+Greater Anglia,Colchester Town,AGA,TOC6853,6853,1
+Greater Anglia,Cressing,AGA,TOC6837,6837,1
+Greater Anglia,Diss,AGA,TOC7348,7348,1
+Greater Anglia,Dovercourt,AGA,TOC6901,6901,1
+Greater Anglia,Elsenham,AGA,TOC6832,6832,1
+Greater Anglia,Ely,AGA,TOC7068,7068,1
+Greater Anglia,Frinton on Sea,AGA,TOC6854,6854,1
+Greater Anglia,Great Bentley,AGA,TOC6855,6855,1
+Greater Anglia,Great Chesterford,AGA,TOC7032,7032,1
+Greater Anglia,Harlow Mill,AGA,TOC6844,6844,1
+Greater Anglia,Harlow Town,AGA,TOC6827,6827,1
+Greater Anglia,Harwich International,AGA,TOC6902,6902,1
+Greater Anglia,Harwich Town,AGA,TOC6905,6905,1
+Greater Anglia,Hatfield Peverel,AGA,TOC6845,6845,1
+Greater Anglia,Hockley,AGA,TOC6880,6880,1
+Greater Anglia,Hythe,AGA,TOC6581,6851,1
+Greater Anglia,Ingatestone,AGA,TOC6882,6882,1
+Greater Anglia,Ipswich,AGA,TOC7217,7217,1
+Greater Anglia,Kelvedon,AGA,TOC6838,6838,1
+Greater Anglia,Kirby Cross,AGA,TOC6862,6862,1
+Greater Anglia,Liverpool St  ,AGA,TOC3686,6965,1
+Greater Anglia,Liverpool St GER,AGA,TOC6965,6965,1
+Greater Anglia,Manningtree,AGA,TOC6856,6856,1
+Greater Anglia,Marks Tey,AGA,TOC6863,6863,1
+Greater Anglia,Mistley,AGA,TOC6906,6906,1
+Greater Anglia,Newport,AGA,TOC7039,7039,1
+Greater Anglia,North Fambridge,AGA,TOC6875,6875,1
+Greater Anglia,Norwich,AGA,TOC7309,7309,1
+Greater Anglia,Prittlewell,AGA,TOC7419,7419,1
+Greater Anglia,Rayleigh,AGA,TOC6884,6884,1
+Greater Anglia,Rochford,AGA,TOC6885,6885,1
+Greater Anglia,Roydon,AGA,TOC6829,6829,1
+Greater Anglia,Sawbridgeworth,AGA,TOC6806,6806,1
+Greater Anglia,Shelford,AGA,TOC7043,7043,1
+Greater Anglia,Shenfield,AGA,TOC6888,6888,1
+Greater Anglia,South Woodham,AGA,TOC6892,6892,1
+Greater Anglia,Southend Victoria,AGA,TOC7420,7420,1
+Greater Anglia,Southminster,AGA,TOC6890,6890,1
+Greater Anglia,Stanstead Mountfichet,AGA,TOC6833,6833,1
+Greater Anglia,Stowmarket,AGA,TOC7355,7355,1
+Greater Anglia,Sudbury,AGA,TOC7098,7098,1
+Greater Anglia,Thorpe-le-Soken,AGA,TOC6857,6857,1
+Greater Anglia,Tottenham Hale,AGA,TOC6951,6951,1
+Greater Anglia,Walton on Naze,AGA,TOC6858,6858,1
+Greater Anglia,Weeley,AGA,TOC6859,6859,1
+Greater Anglia,White Notley,AGA,TOC6846,6846,1
+Greater Anglia,Whittlesford Parkway,AGA,TOC7047,7047,1
+Greater Anglia,Wickford,AGA,TOC6891,6891,1
+Greater Anglia,Witham,AGA,TOC6844,6844,1
+Greater Anglia,Wivenhoe,AGA,TOC6860,6860,1
+Greater Anglia,Wrabness,AGA,TOC6907,6907,1
+GTR,Aldrington,GTR,TOC5280,5280,1
+GTR,Alexandra Palace,GTR,TOC6025,6025,1
+GTR,Amberley,GTR,TOC5250,5250,1
+GTR,Angmering,GTR,TOC5267,5267,1
+GTR,Appledore,GTR,TOC5003,5003,1
+GTR,Arlesey,GTR,TOC6171,6171,1
+GTR,Arundel,GTR,TOC5251,5251,1
+GTR,Ashtead,GTR,TOC5347,5347,1
+GTR,Ashurst,GTR,TOC5398,5398,1
+GTR,Ashwell & Morden,GTR,TOC6083,6083,1
+GTR,Balcombe,GTR,TOC5492,5492,1
+GTR,Baldock,GTR,TOC6084,6084,1
+GTR,Balham,GTR,TOC5399,5399,1
+GTR,Barnham,GTR,TOC5252,5252,1
+GTR,Battersea Park,GTR,TOC5420,5420,1
+GTR,Bayford,GTR,TOC6006,6006,1
+GTR,Bedford,GTR,TOC1512,1512,1
+GTR,Berwick,GTR,TOC5323,5323,1
+GTR,Bexhill,GTR,TOC5211,5211,1
+GTR,Biggleswade,GTR,TOC6170,6170,1
+GTR,Billingshurst,GTR,TOC5464,5464,1
+GTR,Bishopstone,GTR,TOC5402,5402,1
+GTR,Blackfriars,GTR,TOC5112,5112,1
+GTR,Bognor Regis,GTR,TOC5253,5253,1
+GTR,Bosham,GTR,TOC5254,5254,1
+GTR,Boxhill and Westhumble,GTR,TOC5403,5403,1
+GTR,Brighton,GTR,TOC5268,5268,1
+GTR,Brookmans Park,GTR,TOC6074,6074,1
+GTR,Burgess Hill,GTR,TOC5483,5483,1
+GTR,Buxted,GTR,TOC5324,5324,1
+GTR,Carshalton,GTR,TOC5405,5405,1
+GTR,Carshalton Beeches,GTR,TOC5406,5406,1
+GTR,Caterham,GTR,TOC5351,5351,1
+GTR,Chichester,GTR,TOC5255,5255,1
+GTR,Christ’s Hospital,GTR,TOC5319,5319,1
+GTR,City Thameslink (Holborn),GTR,TOC5121,5121,1
+GTR,City Thameslink (Ludgate),GTR,TOC5121,5121,1
+GTR,Collington,GTR,TOC5457,5457,1
+GTR,Cooden Beach,GTR,TOC5458,5458,1
+GTR,Cooksbridge,GTR,TOC5336,5336,1
+GTR,Coulsdon South,GTR,TOC5408,5408,1
+GTR,Cowden,GTR,TOC5409,5409,1
+GTR,Crawley,GTR,TOC5484,5484,1
+GTR,Cricklewood,GTR,TOC1519,1519,1
+GTR,Crowborough,GTR,TOC5325,5325,1
+GTR,Cuffley,GTR,TOC6008,6008,1
+GTR,Denmark Hill,GTR,TOC5421,5421,1
+GTR,Doleham,GTR,TOC5036,5036,1
+GTR,Dorking,GTR,TOC5357,5357,1
+GTR,Dormans,GTR,TOC5413,5413,1
+GTR,Downham Market,GTR,TOC7005,7055,1
+GTR,Durrington On Sea,GTR,TOC5282,5282,1
+GTR,Earlswood,GTR,TOC5414,5414,1
+GTR,East Croydon,GTR,TOC5355,5355,1
+GTR,East Grinstead,GTR,TOC5486,5486,1
+GTR,East Worthing,GTR,TOC5283,5283,1
+GTR,Eastbourne,GTR,TOC5448,5448,1
+GTR,Edenbridge,GTR,TOC5473,5473,1
+GTR,Edenbridge Town,GTR,TOC5359,5359,1
+GTR,Elstree & Borehamwood,GTR,TOC1542,1542,1
+GTR,Emsworth,GTR,TOC5257,5257,1
+GTR,Enfield Chase,GTR,TOC6010,6010,1
+GTR,Epsom,GTR,TOC5360,5360,1
+GTR,Eridge,GTR,TOC5459,5459,1
+GTR,Falmer,GTR,TOC5337,5337,1
+GTR,Faygate,GTR,TOC5493,5493,1
+GTR,Finsbury Park,GTR,TOC6119,6119,1
+GTR,Fishbourne,GTR,TOC5261,5261,1
+GTR,Fishersgate,GTR,TOC5284,5284,1
+GTR,Flitwick,GTR,TOC1532,1532,1
+GTR,Ford,GTR,TOC5258,5258,1
+GTR,Foxton,GTR,TOC7029,7029,1
+GTR,Gatwick Airport Station,GTR,TOC5416,5416,1
+GTR,Gipsy Hill,GTR,TOC5363,5363,1
+GTR,Glynde,GTR,TOC5338,5338,1
+GTR,Godstone,GTR,TOC5474,5474,1
+GTR,Gordon Hill,GTR,TOC6028,6028,1
+GTR,Goring By Sea,GTR,TOC5272,5272,1
+GTR,Ham Street,GTR,TOC5037,5037,1
+GTR,Hampden Park,GTR,TOC5450,5450,1
+GTR,Harlington,GTR,TOC1533,1533,1
+GTR,Harpenden,GTR,TOC1543,1543,1
+GTR,Hassocks,GTR,TOC5489,5489,1
+GTR,Hatfield,GTR,TOC6070,6070,1
+GTR,Hayward’s Heath,GTR,TOC5490,5490,1
+GTR,Hertford North,GTR,TOC6085,6085,1
+GTR,Hever,GTR,TOC5417,5417,1
+GTR,Hitchin,GTR,TOC6086,6086,1
+GTR,Holmwood,GTR,TOC5308,5308,1
+GTR,Horley,GTR,TOC5365,5365,1
+GTR,Hornsey,GTR,TOC6015,6015,1
+GTR,Horsham,GTR,TOC5309,5309,1
+GTR,Hove,GTR,TOC5273,5273,1
+GTR,Huntingdon,GTR,TOC6108,6108,1
+GTR,Hurst Green,GTR,TOC5463,5463,1
+GTR,Ifield,GTR,TOC5495,5495,1
+GTR,Kings Lynn,GTR,TOC7115,7115,1
+GTR,Knebworth,GTR,TOC6088,6088,1
+GTR,KX Suburban,GTR,TOC6121,6121,1
+GTR,Lancing,GTR,TOC5275,5275,1
+GTR,Leagrave,GTR,TOC1534,1534,1
+GTR,Leatherhead,GTR,TOC5368,5368,1
+GTR,Leigh,GTR,TOC5294,5294,1
+GTR,Letchworth,GTR,TOC6089,6089,1
+GTR,Lewes,GTR,TOC5329,5329,1
+GTR,Lingfield,GTR,TOC5369,5369,1
+GTR,Littlehampton,GTR,TOC5260,5260,1
+GTR,Littlehaven,GTR,TOC5498,5498,1
+GTR,Littleport,GTR,TOC7072,7072,1
+GTR,London Bridge Shard,GTR,TOC6336,5148,1
+GTR,London Road,GTR,TOC5281,5281,1
+GTR,Loughborough Junction,GTR,TOC5082,5082,1
+GTR,Luton,GTR,TOC1536,1536,1
+GTR,Luton Parkway,GTR,TOC3645,3645,1
+GTR,Meldreth,GTR,TOC7036,7036,1
+GTR,Merstham,GTR,TOC5475,5475,1
+GTR,Mill Hill Broadway,GTR,TOC1527,1527,1
+GTR,Moulescombe,GTR,TOC5312,5312,1
+GTR,New Barnet,GTR,TOC6018,6018,1
+GTR,Newhaven Harbour,GTR,TOC5330,5330,1
+GTR,Newhaven Town,GTR,TOC5331,5331,1
+GTR,Norbury,GTR,TOC5428,5428,1
+GTR,Normans Bay,GTR,TOC5460,5460,1
+GTR,Nutbourne,GTR,TOC5262,5262,1
+GTR,Nutfield,GTR,TOC5476,5476,1
+GTR,Ockley,GTR,TOC5310,5310,1
+GTR,Ore,GTR,TOC5021,5021,1
+GTR,Oxted,GTR,TOC5377,5377,1
+GTR,Palmers Green,GTR,TOC6021,6021,1
+GTR,Peckham Rye,GTR,TOC5423,5423,1
+GTR,Penshurst,GTR,TOC5477,5477,1
+GTR,Pevensey and Westham,GTR,TOC5461,5461,1
+GTR,Pevensey Bay,GTR,TOC5462,5462,1
+GTR,Plumpton,GTR,TOC5332,5332,1
+GTR,Polegate,GTR,TOC5455,5455,1
+GTR,Portslade,GTR,TOC5276,5276,1
+GTR,Potters Bar,GTR,TOC6022,6022,1
+GTR,Preston Park,GTR,TOC5285,5285,1
+GTR,Pulborough,GTR,TOC5468,5468,1
+GTR,Purley,GTR,TOC5379,5379,1
+GTR,Queens Road Peckham,GTR,TOC5424,5424,1
+GTR,Radlett,GTR,TOC1546,1546,1
+GTR,Redhill,GTR,TOC5478,5478,1
+GTR,Reigate,GTR,TOC5480,5480,1
+GTR,Royston,GTR,TOC6090,6090,1
+GTR,Rye,GTR,TOC5024,5024,1
+GTR,Salfords,GTR,TOC5380,5380,1
+GTR,Sanderstead,GTR,TOC5433,5433,1
+GTR,Sandy,GTR,TOC6172,6172,1
+GTR,Seaford,GTR,TOC5333,5333,1
+GTR,Selhurst,GTR,TOC5434,5434,1
+GTR,Shepreth,GTR,TOC7044,7044,1
+GTR,Shoreham By Sea,GTR,TOC5277,5277,1
+GTR,South Croydon,GTR,TOC5410,5410,1
+GTR,Southbourne,GTR,TOC5263,5263,1
+GTR,Southease,GTR,TOC5339,5339,1
+GTR,Southwick,GTR,TOC5286,5286,1
+GTR,St Pancras International,GTR,TOC1555,1555,1
+GTR,St. Albans,GTR,TOC1548,1548,1
+GTR,St. Neots,GTR,TOC6110,6110,1
+GTR,Stevenage,GTR,TOC6092,6092,1
+GTR,Streatham,GTR,TOC5383,5383,1
+GTR,Streatham Common,GTR,TOC5384,5384,1
+GTR,Streatham Hill,GTR,TOC5435,5435,1
+GTR,Sutton London,GTR,TOC5385,5385,1
+GTR,Thornton Heath,GTR,TOC5388,5388,1
+GTR,Three Bridges,GTR,TOC5491,5491,1
+GTR,Three Oaks,GTR,TOC5028,5028,1
+GTR,Tooting,GTR,TOC5389,5389,1
+GTR,Tulse Hill,GTR,TOC5390,5390,1
+GTR,Uckfield,GTR,TOC5334,5334,1
+GTR,Victoria Gatwick Express,GTR,TOC5449,5426,1
+GTR,Wallington,GTR,TOC5394,5394,1
+GTR,Warblington,GTR,TOC5264,5264,1
+GTR,Warnham,GTR,TOC5316,5316,1
+GTR,Waterbeach,GTR,TOC7079,7079,1
+GTR,Watlington,GTR,TOC7057,7057,1
+GTR,Watton-At-Stone,GTR,TOC6095,6095,1
+GTR,Welham Green,GTR,TOC6073,6073,1
+GTR,Welwyn GC Pl 1-2,GTR,TOC6183,6183,1
+GTR,Welwyn GC Pl 3-4,GTR,TOC6183,6183,1
+GTR,Welwyn North,GTR,TOC6096,6096,1
+GTR,West Hampstead,GTR,TOC1525,1525,1
+GTR,West Norwood,GTR,TOC5438,5438,1
+GTR,West Worthing,GTR,TOC5278,5278,1
+GTR,Winchelsea,GTR,TOC5042,5042,1
+GTR,Winchmore Hill,GTR,TOC6024,6024,1
+GTR,Wivelsfield,GTR,TOC5341,5341,1
+GTR,Woldingham,GTR,TOC5440,5440,1
+GTR,Worthing,GTR,TOC5279,5279,1
+GWR,Avonmouth,GWR,TOC3200,3200,1
+GWR,Bath Spa,GWR,TOC3271,3271,1
+GWR,Bristol Parkway,GWR,TOC3230,3230,1
+GWR,Bristol Temple Meads,GWR,TOC3231,3231,1
+GWR,Cheltenham Spa,GWR,TOC4731,4731,1
+GWR,Chippenham,GWR,TOC3267,3267,1
+GWR,Clifton Down,GWR,TOC3202,3202,1
+GWR,Didcot Parkway,GWR,TOC3030,3030,1
+GWR,Exeter Central,GWR,TOC5755,5755,1
+GWR,Exeter St Davids,GWR,TOC3410,3410,1
+GWR,Gloucester,GWR,TOC4760,4760,1
+GWR,Lawrence Hill,GWR,TOC3225,3225,1
+GWR,Maidenhead,GWR,TOC3147,3147,1
+GWR,Montpelier,GWR,TOC3203,3203,1
+GWR,Newbury,GWR,TOC3074,3074,1
+GWR,Newton Abbott,GWR,TOC3426,3426,1
+GWR,Oxford,GWR,TOC3115,3115,1
+GWR,Paddington,GWR,TOC3087,3087,1
+GWR,Plymouth,GWR,TOC3580,3580,1
+GWR,Reading,GWR,TOC3149,3149,1
+GWR,Redland,GWR,TOC3247,3247,1
+GWR,Sea Mills,GWR,TOC3254,3254,1
+GWR,Severn Beach,GWR,TOC3205,3205,1
+GWR,Shirehampton,GWR,TOC3206,3206,1
+GWR,Slough,GWR,TOC3173,3172,1
+GWR,St Andrews Road,GWR,TOC3252,3252,1
+GWR,Stapleton Road,GWR,TOC3250,3250,1
+GWR,Swindon,GWR,TOC3333,3333,1
+GWR,Taunton,GWR,TOC3471,3471,1
+GWR,Truro,GWR,TOC3540,3540,1
+GWR,Weston Super Mare,GWR,TOC3391,3391,1
+LNER,Kings Cross Arches 1-3 (ex-Kings Cross Accelerated),LNER,TOC6121,6121,1
+Merseyrail,Birkenhead Hamilton Square,Mersey,TOC2219,2219,1
+Merseyrail,Conway Park,Mersey,TOC3624,3624,1
+Merseyrail,James Street,Mersey,TOC2244,2244,1
+Merseyrail,Liverpool Central,Mersey,TOC2242,2242,1
+Merseyrail,Moorfields,Mersey,TOC2226,2226,1
+Merseyrail,South Parkway,Mersey,TOC9709,9709,1
+Merseyrail,Southport,Mersey,TOC2262,2262,1
+Network Rail,"W LOO P12-P19, 1-67, S/WAY 70-99 &  WICC",Network Rail,TOC8909,5598,1
+Network Rail,WATERLOO P1 TO P11 & PL 20 to PL 22,Network Rail,TOC5598,5598,1
+Northern,Barrow in Furness,ARN,TOC1954,1954,1
+Northern,Blackburn,ARN,TOC2737,2737,1
+Northern,Bolton,ARN,TOC2599,2599,1
+Northern,Bradford Forster Square,ARN,TOC8346,8346,1
+Northern,Glossop,ARN,TOC2895,2895,1
+Northern,Halifax,ARN,TOC8411,8411,1
+Northern,Harrogate,ARN,TOC8213,8213,1
+Northern,Hartlepool,ARN,TOC8009,8009,1
+Northern,Liverpool Lime St,ARN,TOC2246,2246,1
+Northern,Rochdale,ARN,TOC2924,2924,1
+Northern,Salford Central,ARN,TOC2798,2798,1
+Northern,Salford Crescent,ARN,TOC2794,2794,1
+Northern,Skipton,ARN,TOC2728,2728,1
+Northern,St Helens Central,ARN,TOC2341,2341,1
+Northern,Warrington,ARN,TOC2390,2390,1
+Northern,Wigan Wallgate,ARN,TOC2406,2406,1
+Scotrail,Aberdeen,ASR,TOC8976,8976,1
+Scotrail,Anderston,ASR,TOC9965,9965,1
+Scotrail,Argyle Street,ASR,TOC9961,9961,1
+Scotrail,Ayr,ASR,TOC9463,9463,1
+Scotrail,Charing Cross,ASR,TOC9911,9911,1
+Scotrail,Dundee,ASR,TOC9039,9039,1
+Scotrail,Edinburgh Bathgate,ASR,TOC9311,9311,1
+Scotrail,Edinburgh Gateway,ASR,TOC6545,6545,1
+Scotrail,Edinburgh Park,ASR,TOC9365,9365,1
+Scotrail,Edinburgh Waverley,ASR,TOC9328,9328,1
+Scotrail,Glasgow Central (HL) Pl 11-15,ASR,TOC6696,9813,1
+Scotrail,Glasgow Central (HL) Pl 3-6,ASR,TOC9813,9813,1
+Scotrail,Glasgow Central (HL) Pl 7-8,ASR,TOC6693,9813,1
+Scotrail,Glasgow Central (HL) Pl 9-10,ASR,TOC6694,9813,1
+Scotrail,Glasgow Central (LL),ASR,TOC9922,9813,1
+Scotrail,Glasgow Exhibition Centre,ASR,TOC9914,9914,1
+Scotrail,Glasgow Queen St (LL)*,ASR,TOC9952,9950,1
+Scotrail,Glasgow Queen St*,ASR,TOC9950,9950,1
+Scotrail,Haymarket,ASR,TOC9419,9419,1
+Scotrail,Inverness,ASR,TOC8649,8649,1
+Scotrail,Perth,ASR,TOC8805,8805,1
+Scotrail,Stirling,ASR,TOC9888,9888,1
+SE,Albany Park,LSER,TOC5132,5132,1
+SE,Ashford International,LSER,TOC5466,5004,1
+SE,Bexley,LSER,TOC5093,5093,1
+SE,Bexley Heath,LSER,TOC5094,5094,1
+SE,Bromley South,LSER,TOC5064,5064,1
+SE,Cannon Street,LSER,TOC5142,5142,1
+SE,Canterbury East,LSER,TOC5164,5164,1
+SE,Canterbury West,LSER,TOC5007,5007,1
+SE,Charing Cross,LSER,TOC5143,5143,1
+SE,Chatham,LSER,TOC5199,5199,1
+SE,Crayford,LSER,TOC5100,5100,1
+SE,Dartford,LSER,TOC5101,5101,1
+SE,Dover Priory,LSER,TOC5033,5033,1
+SE,Ebbsfleet International,LSER,TOC5566,5566,1
+SE,Eltham,LSER,TOC5103,5103,1
+SE,Falconwood,LSER,TOC5137,5137,1
+SE,Faversham,LSER,TOC5167,5167,1
+SE,Folkstone Central,LSER,TOC5035,5035,1
+SE,Gillingham,LSER,TOC5169,5169,1
+SE,Gravesend,LSER,TOC5172,5172,1
+SE,Greenhithe,LSER,TOC5138,5138,1
+SE,Hastings,LSER,TOC5219,5219,1
+SE,Lewisham,LSER,TOC5051,5051,1
+SE,London Bridge (Pl 1-6),LSER,TOC5148,5148,1
+SE,New Cross,LSER,TOC5150,5150,1
+SE,New Eltham,LSER,TOC5119,5119,1
+SE,Orpington,LSER,TOC5122,5122,1
+SE,Rainham(Kent),LSER,TOC5177,5177,1
+SE,Rochester,LSER,TOC5203,5203,1
+SE,Sevenoaks,LSER,TOC5124,5124,1
+SE,Sidcup,LSER,TOC5125,5125,1
+SE,Sittingbourne,LSER,TOC5187,5187,1
+SE,St Leonards,LSER,TOC5239,5239,1
+SE,St. Pancras International,LSER,TOC1555,1555,1
+SE,Stratford International,LSER,TOC7222,7222,1
+SE,Strood,LSER,TOC5191,5191,1
+SE,Tonbridge,LSER,TOC5229,5229,1
+SE,Tunbridge Wells,LSER,TOC5230,5230,1
+SE,Waterloo East,LSER,TOC5158,5158,1
+SE,Welling,LSER,TOC5128,5128,1
+SE,Woolwich Arsenal,LSER,TOC5152,5152,1
+Stobart,Southend Airport,Stobart,TOC4787,4787,1
+SWR,Aldershot,SWR,TOC5623,5623,1
+SWR,Basingstoke,SWR,TOC5520,5520,1
+SWR,Bournemouth,SWR,TOC5876,5876,1
+SWR,Bracknell,SWR,TOC5693,5693,1
+SWR,Clapham Junction,SWR,TOC5595,5595,1
+SWR,Earlsfield,SWR,TOC5584,5584,1
+SWR,Fareham,SWR,TOC5900,5900,1
+SWR,Farnborough,SWR,TOC5521,5521,1
+SWR,Feltham,SWR,TOC5559,5559,1
+SWR,Fratton,SWR,TOC5509,5509,1
+SWR,Guildford,SWR,TOC5631,5631,1
+SWR,Hampton Court,SWR,TOC5561,5561,1
+SWR,Haselmere,SWR,TOC5633,5633,1
+SWR,Havant,SWR,TOC5532,5532,1
+SWR,Kingston,SWR,TOC5565,5565,1
+SWR,New Malden,SWR,TOC5567,5567,1
+SWR,Norbiton,SWR,TOC5568,5568,1
+SWR,Petersfield,SWR,TOC5657,5657,1
+SWR,Portsmouth & Southsea,SWR,TOC5537,5537,1
+SWR,Portsmouth Harbour,SWR,TOC5540,5540,1
+SWR,Putney,SWR,TOC5603,5603,1
+SWR,Queenstown Road,SWR,TOC5596,5596,1
+SWR,Raynes Park,SWR,TOC5569,5569,1
+SWR,Richmond,SWR,TOC5570,5570,1
+SWR,Salisbury,SWR,TOC5663,5663,1
+SWR,Southampton Central,SWR,TOC5932,5932,1
+SWR,Staines,SWR,TOC5670,5670,1
+SWR,Surbiton,SWR,TOC5571,5571,1
+SWR,Twickenham,SWR,TOC5574,5574,1
+SWR,Vauxhall,SWR,TOC5597,5597,1
+SWR,Virginia Water,SWR,TOC5676,5676,1
+SWR,Walton on Thames,SWR,TOC5575,5575,1
+SWR,Wandsworth Town,SWR,TOC5576,5576,1
+SWR,Weybridge,SWR,TOC5577,5577,1
+SWR,Wimbledon,SWR,TOC5578,5578,1
+SWR,Winchester,SWR,TOC5924,5924,1
+SWR,Woking,SWR,TOC5685,5685,1
+SWR,Wokingham,SWR,TOC5696,5696,1
+TfWR,Bridgend,TfW,TOC3809,3809,1
+TfWR,Cardiff Central,TfW,TOC3899,3899,1
+TfWR,Cardiff Queen Street,TfW,TOC3900,3900,1
+TfWR,Cathays,TfW,TOC3820,3820,1
+TfWR,Chester ,TfW,TOC2412,2412,1
+TfWR,Colwyn Bay,TfW,TOC2451,2451,1
+TfWR,Hereford,TfW,TOC3607,3607,1
+TfWR,Neath,TfW,TOC4216,4216,1
+TfWR,Newport  ,TfW,TOC3674,3674,1
+TfWR,Pontypridd,TfW,TOC3904,3904,1
+TfWR,Rhyl,TfW,TOC2461,2461,1
+TfWR,Shrewsbury,TfW,TOC4387,4387,1
+TfWR,Swansea,TfW,TOC4222,4222,1
+TPE,Dewsbury,FTPE,TOC8326,8326,1
+TPE,Huddersfield,FTPE,TOC8437,8437,1
+TPE,Manchester Airport,FTPE,TOC2961,2961,1
+TPE,Manchester Piccadilly,FTPE,TOC2968,2968,1
+Virgin,Birmingham International,Virgin,TOC1215,1215,1
+Virgin,Birmingham New Street,Virgin,TOC1127,1127,1
+Virgin,BNS Navigation Street North,Virgin,TOC4444,4444,1
+Virgin,Coventry,Virgin,TOC1030,1030,1
+Virgin,Crewe,Virgin,TOC1243,1243,1
+Virgin,Euston,Virgin,TOC1444,1444,1
+Virgin,Manchester Picadilly,Virgin,TOC2968,2968,1
+Virgin,Rugby,Virgin,TOC1087,1087,1
+Virgin,Stockport ,Virgin,TOC2771,2771,1
+Virgin,Stoke-on-Trent,Virgin,TOC1314,1314,1
+West Midlands Railways,Bletchley,WMT,TOC1360,1360,1
+West Midlands Railways,Euston,WMT,TOC1444,1444,1
+West Midlands Railways,Five ways – Birmingham,WMT,TOC4503,4503,1
+West Midlands Railways,Hemel Hempstead,WMT,TOC1391,1391,1
+West Midlands Railways,Milton Keynes,WMT,TOC1378,1378,1
+West Midlands Railways,Moor Street – Birmingham,WMT,TOC4515,4515,1
+West Midlands Railways,Northampton,WMT,TOC1069,1069,1
+West Midlands Railways,Snow Hill – Birmingham,WMT,TOC1006,1006,1
+West Midlands Railways,University – Birmingham,WMT,TOC4504,4504,1
+West Midlands Railways,Watford Junction,WMT,TOC1402,1402,1

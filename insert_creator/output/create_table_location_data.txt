@@ -1,0 +1,11 @@
+drop table location_data;
+CREATE TABLE location_data (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    `Station name` VARCHAR(255),
+    `National Location Code (NLC)` VARCHAR(255),
+    `Three Letter Code (TLC)` VARCHAR(255),
+    Column1 VARCHAR(255),
+    `Ordnance Survey grid: Easting` VARCHAR(255),
+    `Ordnance Survey grid: Northing` VARCHAR(255),
+    Postcode VARCHAR(255)
+);

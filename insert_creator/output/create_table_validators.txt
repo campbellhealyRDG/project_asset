@@ -1,0 +1,17 @@
+CREATE TABLE validators (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    `Station facility owner` VARCHAR(255),
+    `Station name` VARCHAR(255),
+    `National Location Code (NLC)` VARCHAR(255),
+    `Three Letter Code (TLC)` VARCHAR(255),
+    Postcode VARCHAR(255),
+    `Ordnance Survey grid: longitude` VARCHAR(255),
+    `Ordnance Survey grid: latitude` VARCHAR(255),
+    `Cubic Gates` VARCHAR(255),
+    `VIX PVALS` VARCHAR(255),
+    `S+B PVAL` VARCHAR(255),
+    `S+B Gates` VARCHAR(255),
+    `Number of Smartcard Validation devices` VARCHAR(255),
+    `At least 1 Smartcard Validation devices` VARCHAR(255),
+    `London Travelcard Area` VARCHAR(255)
+);

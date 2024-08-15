@@ -1,0 +1,8 @@
+CREATE TABLE inboundary_stations (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    SFO VARCHAR(255),
+    `Station name` VARCHAR(255),
+    `National Location Code (NLC)` VARCHAR(255),
+    `Three Letter Code (TLC)` VARCHAR(255),
+    Postcode VARCHAR(255)
+);

@@ -1,0 +1,9 @@
+CREATE TABLE sb_gates (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    `Station Location` VARCHAR(255),
+     `Unnamed: 1` VARCHAR(255),
+     `Unnamed: 2` VARCHAR(255),
+     `Unnamed: 3` VARCHAR(255),
+     `Unnamed: 4` VARCHAR(255),
+     `Unnamed: 5` VARCHAR(255)
+);

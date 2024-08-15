@@ -1,0 +1,9 @@
+CREATE TABLE sb_pvals (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    `Train Operator` VARCHAR(255),
+    Station  VARCHAR(255),
+    NLC VARCHAR(255),
+    `Proposed PVAL Number`  VARCHAR(255),
+    `Suggested PVAL number`  VARCHAR(255),
+    Comments  VARCHAR(255)
+);

@@ -1,0 +1,10 @@
+CREATE TABLE data_table (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    `TOC/Third Party Description` VARCHAR(255),
+    `Location Description` VARCHAR(255),
+    `Location Code` VARCHAR(255),
+    `TOC/Third Party Code` VARCHAR(255),
+    `Current Business Name` VARCHAR(255),
+    `Retail Channel` VARCHAR(255),
+    Whitelabel VARCHAR(255)
+);

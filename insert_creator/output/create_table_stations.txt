@@ -1,0 +1,21 @@
+CREATE TABLE stations (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    `Station name` VARCHAR(255),
+    `National Location Code (NLC)` VARCHAR(255),
+    `Three Letter Code (TLC)` VARCHAR(255),
+    `Station has a Ticket Gate` VARCHAR(255),
+    `Ticket Gates` VARCHAR(255),
+   `Cubic Gates` VARCHAR(255),
+    `VIX PVALS` VARCHAR(255),
+    `S+B PVAL` VARCHAR(255),
+    `S+B Gates` VARCHAR(255),
+    `Total Devices` VARCHAR(255),
+    `Apr 2021 to Mar 2022 Entries and exits: Total` VARCHAR(255),
+    `Apr 2021 to Mar 2022 Entries and exits: Rank` VARCHAR(255),
+    `Apr 2021 to Mar 2022: Interchanges` VARCHAR(255),
+    Region VARCHAR(255),
+    `Station facility owner` VARCHAR(255),
+    `SFO Short Code` VARCHAR(255),
+    `Station group` VARCHAR(255),
+    `London Travelcard Area` VARCHAR(255)
+);
