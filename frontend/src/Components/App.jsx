@@ -31,7 +31,7 @@ function App() {
 
   const fetchSmarts = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/smartdevices');
+      const response = await axios.get('http://localhost:8081/smartdevices');
       setData(response.data);
       setshowSmart(true);
       setShowCubicGates(false); // Hide CubicGates table when showing Smarts
@@ -50,7 +50,7 @@ function App() {
   
   const fetchCubicGates = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/gates');
+      const response = await axios.get('http://localhost:8081/gates');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(true);
@@ -69,7 +69,7 @@ function App() {
   
   const fetchDataTable = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/data');
+      const response = await axios.get('http://localhost:8081/data');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
@@ -88,7 +88,7 @@ function App() {
   
   const fetchEveryNlc = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/everynlc');
+      const response = await axios.get('http://localhost:8081/everynlc');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
@@ -107,7 +107,7 @@ function App() {
   
   const fetchInboundaryStations = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/inboundarystations');
+      const response = await axios.get('http://localhost:8081/inboundarystations');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
@@ -126,7 +126,7 @@ function App() {
   
   const fetchLocationData = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/locationdata');
+      const response = await axios.get('http://localhost:8081/locationdata');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
@@ -145,7 +145,7 @@ function App() {
   
   const fetchSnbGates = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/snbgates');
+      const response = await axios.get('http://localhost:8081/snbgates');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
@@ -164,7 +164,7 @@ function App() {
   
   const fetchSnbPvals = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/snbpvals');
+      const response = await axios.get('http://localhost:8081/snbpvals');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
@@ -183,7 +183,7 @@ function App() {
   
   const fetchStations = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/stations');
+      const response = await axios.get('http://localhost:8081/stations');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
@@ -202,7 +202,7 @@ function App() {
   
   const fetchVixPvals = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/vixpvals');
+      const response = await axios.get('http://localhost:8081/vixpvals');
       setData(response.data);
       setshowSmart(false); // Hide Smarts table when showing Gates
       setShowCubicGates(false);
